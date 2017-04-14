@@ -159,6 +159,6 @@ Disse begrensede studiene viser at alle, uavhengig av musikalsk trening og erfar
 
 ### Les mer
 
-B> - Luftinstrumentspilling: Godøy et al. (2006b)
-B> - Korrespondanser mellom musikk og bevegelse: Haga (2008)
-B> - Bevegelse til musikk: Styns et al. (2007)
+T> - Luftinstrumentspilling: Godøy et al. (2006b)
+T> - Korrespondanser mellom musikk og bevegelse: Haga (2008)
+T> - Bevegelse til musikk: Styns et al. (2007)

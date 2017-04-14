@@ -88,6 +88,6 @@ I dette kapitlet er det beskrevet forskjellige typer funksjonelle bevegelser hos
 
 ### Les mer
 
-B> - Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
-B> - Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
-B> - Analyse av musikkrelaterte bevegelser: Gritten og King (2006)
+T> - Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
+T> - Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
+T> - Analyse av musikkrelaterte bevegelser: Gritten og King (2006)

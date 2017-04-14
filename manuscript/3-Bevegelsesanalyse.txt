@@ -151,6 +151,6 @@ I den siste delen av kapitlet så vi på kvalitative observasjonsteknikker, og d
 
 ### Les mer
 
-B> - Historien til bevegelsessporingssystemer: Roetenberg (2006)
-B> - Labans bevegelsesanalyse: Newlove og Dalby (2004)
-B> - Labanotasjon: Guest (2004)
+T> - Historien til bevegelsessporingssystemer: Roetenberg (2006)
+T> - Labans bevegelsesanalyse: Newlove og Dalby (2004)
+T> - Labanotasjon: Guest (2004)

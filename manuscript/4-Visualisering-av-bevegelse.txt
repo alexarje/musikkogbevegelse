@@ -248,6 +248,6 @@ Dette kapitlet har vist forskjellige teknikker for å visualisere bevegelser. É
 
 ### Les mer
 
-B> - Visualisering av bevegelse: Muybridge (1955)
-B> - Bevegelseskurver: Jensenius (2007)
-B> - Interaktiv dans: Guedes (2005)
+T> - Visualisering av bevegelse: Muybridge (1955)
+T> - Bevegelseskurver: Jensenius (2007)
+T> - Interaktiv dans: Guedes (2005)

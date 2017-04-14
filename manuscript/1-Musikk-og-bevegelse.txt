@@ -97,6 +97,6 @@ I dette kapitlet har vi sett på hvordan musikkforskningen har utviklet seg fra 
 
 ### Les mer
 
-B> - Kognitiv psykologi: Helstrup og Kaufmann (2000)
-B> - Økologisk musikkpsykologi: Clarke (2005)
-B> - Kroppslig musikkognisjon: Leman (2007)
+T> - Kognitiv psykologi: Helstrup og Kaufmann (2000)
+T> - Økologisk musikkpsykologi: Clarke (2005)
+T> - Kroppslig musikkognisjon: Leman (2007)

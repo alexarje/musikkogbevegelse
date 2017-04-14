@@ -130,7 +130,6 @@ Kapitlet begynte med å presentere hvordan vår opplevelse av forskjellige rom h
 
 ### Les mer
 
-B>
-* kropp og bevegelse: Engelsrud (2006)
-* bevegelsesvitenskap: Abernethy et al. (2005)
-* gester: McNeill (2005)
+T> * kropp og bevegelse: Engelsrud (2006)
+T> * bevegelsesvitenskap: Abernethy et al. (2005)
+T> * gester: McNeill (2005)
