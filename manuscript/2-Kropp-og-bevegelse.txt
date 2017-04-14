@@ -1,8 +1,6 @@
 # 2. Kropp og bevegelse
 
-*I dette kapitlet skal vi se nærmere på en del sentrale begreper for å
-forstå mer om kroppsbevegelser, blant annet kropp, rom, bevegelse,
-handling og gest.*
+B> I dette kapitlet skal vi se nærmere på en del sentrale begreper for å forstå mer om kroppsbevegelser, blant annet kropp, rom, bevegelse, handling og gest.
 
 Kropp
 -----
