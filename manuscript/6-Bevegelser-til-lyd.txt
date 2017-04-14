@@ -1,8 +1,8 @@
 # 6. Bevegelser til lyd
 
-*I dette kapitlet skal vi se nærmere på forskjellige typer bevegelser til musikalsk lyd, eksemplifisert ved luftinstrumentspilling, fridansing og tegning til musikk.*
+A> I dette kapitlet skal vi se nærmere på forskjellige typer bevegelser til musikalsk lyd, eksemplifisert ved luftinstrumentspilling, fridansing og tegning til musikk.
 
-Spontanbevegelser -----------------
+## Spontanbevegelser
 
 På T-banen ser man folk som sitter og nikker på hodet eller rister på foten mens de lytter til musikk på en mobil mediespiller. I parken jogger folk med propper i ørene og bruker musikken som hjelp til å yte litt mer. På konsert spiller noen luftgitar ved å etterligne bevegelsene til musikeren på scenen, og på en nattklubb holder musikken dansen i gang. Disse eksemplene viser spontane bevegelser som på forskjellig vis er knyttet til den musikalske lyden. Bevegelsene kan også fortelle noe om musikken det lyttes til, hvilke musikalske kvaliteter det fokuseres på, og hvordan man synkroniserer en kroppslig respons til lyden. Der ord kommer til kort for å beskrive en musikalsk opplevelse, kan bevegelsene si noe om hva en person legger merke til i det musikalske forløpet.
 
@@ -149,7 +149,7 @@ Et aspekt vi ikke har studert i denne omgang, men som vil stå sentralt i senere
 
 Når det gjelder forskjeller mellom deltagerne med og uten musikalsk skolering, er det også noe som peker seg ut. Deltagerne med liten musikalsk skolering fokuserte mer på overordnede kvaliteter, for eksempel omhyllingskurven til lyden. Deltagerne med musikalsk skolering fokuserte i større grad på opplevde kvaliteter i de lydproduserende handlingene som lå til grunn for lydproduksjonen. Disse personene var også generelt bedre til å skille mellom ulike lydobjekter i de sammensatte lydene, mens deltagerne med liten musikalsk skolering behandlet dem som ett sammenhengende lydobjekt. Vi skal allikevel være forsiktige med å generalisere for mye fra en begrenset studie som dette, og heller oppfordre andre til å gjennomføre lignende studier.
 
-Sammendrag ----------
+## Sammendrag
 
 Dette kapitlet har beskrevet tre forskjellige observasjonsstudier av bevegelse til musikalsk lyd: *luftinstrumentspilling*, *fridans* og *lydskissering*. Selv om alle studiene hadde det samme utgangspunktet, representerer de tre forskjellige metodiske tilnærminger. I studien av luftinstrumentspilling brukte vi en karakterskala for å kvantifisere resultatene fra en kvalitativ vurdering av *samsvar* mellom de imiterte bevegelsene og antatt lydproduserende handling. I fridansstudien så vi på hvordan Hodgins *koreomusikalske paralleller* kan brukes for å forstå sammenhenger mellom egenskaper i lyd og bevegelse. I den siste studien brukte vi en todimensjonal fremstilling av ”tegninger” for å se på likheter og forskjeller i hvordan man skisserer egenskaper i lyd ved hjelp av en digital penn.
 
@@ -159,8 +159,6 @@ Disse begrensede studiene viser at alle, uavhengig av musikalsk trening og erfar
 
 ### Les mer
 
--   luftinstrumentspilling: Godøy et al. (2006b)
-
--   korrespondanser mellom musikk og bevegelse: Haga (2008)
-
--   bevegelse til musikk: Styns et al. (2007)
+B> - Luftinstrumentspilling: Godøy et al. (2006b)
+B> - Korrespondanser mellom musikk og bevegelse: Haga (2008)
+B> - Bevegelse til musikk: Styns et al. (2007)

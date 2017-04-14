@@ -1,6 +1,6 @@
 # 4. Visualisering av bevegelse
 
-*Dette kapitlet presenterer forskjellige former for visualisering av bevegelse, blant annet bevegelsesbilder, bevegelseshistoriebilder og bevegelseskurver.*
+A> Dette kapitlet presenterer forskjellige former for visualisering av bevegelse, blant annet bevegelsesbilder, bevegelseshistoriebilder og bevegelseskurver.
 
 ## Fotografiske metoder
 

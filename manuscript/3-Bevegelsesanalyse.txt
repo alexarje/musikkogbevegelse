@@ -1,6 +1,6 @@
 # 3. Bevegelsesanalyse
 
-*I dette kapitlet skal vi se nærmere på forskjellige kvalitative og kvantitative metoder for bevegelsesanalyse.*
+A> I dette kapitlet skal vi se nærmere på forskjellige kvalitative og kvantitative metoder for bevegelsesanalyse.
 
 ## Deskriptiv analyse
 
@@ -20,7 +20,7 @@ Det har etter hvert vokst frem en rekke forskjellige teknologier for å registre
 - mekaniske systemer
 - kinetiske systemer
 - optisk-visuelle systemer
-- optisk-infrarøde systemer 
+- optisk-infrarøde systemer
 - fysiologiske systemer
 
 Alle disse har igjen en rekke underkategorier som vi skal se nærmere på i de etterfølgende avsnittene.

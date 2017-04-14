@@ -1,8 +1,8 @@
-# 7. Koblinger mellom handling og lyd 
+# 7. Koblinger mellom handling og lyd
 
-*I dette kapitlet skal vi se nærmere på forskjellige typer koblinger mellom handling og lyd. Det blir beskrevet hvordan slike koblinger er bygget opp og hvordan de påvirker måten vi opplever musikk på. *
+A> I dette kapitlet skal vi se nærmere på forskjellige typer koblinger mellom handling og lyd. Det blir beskrevet hvordan slike koblinger er bygget opp og hvordan de påvirker måten vi opplever musikk på.
 
-Et glass som faller -------------------
+## Et glass som faller
 
 Tenk på en hånd som holder et vannglass, og som deretter slipper glasset slik at det faller mot gulvet. Mens det fremdeles er i luften, vil du kunne forestille deg både det visuelle og lydlige resultatet når glasset treffer gulvet og knuser. Siden du vet at lyden som kommer, kan være ubehagelig, forsøker du kanskje å dekke ørene for å beskytte hørselen. Denne intuitive forståelsen av sammenhengen mellom objekter, handlinger som utføres med objektene, og lyden som oppstår av handlingen, er basert på det vi kan kalle en *kobling* mellom handling og lyd. Vi kan skille mellom to hovedtyper av slike koblinger:
 
@@ -13,7 +13,7 @@ Disse definisjonene beskriver oppbygningen av en kobling og ikke vår oppfattels
 
 Selv om opplevelsen av en kobling på et digitalt piano kan oppleves som naturlig, vil den allikevel skille seg fra koblingen man finner i et akustisk instrument. En kunstig kobling vil aldri kunne være så sterk som en naturlig kobling, hverken fysisk eller perseptuelt. Uansett hvor bra et digitalt piano er konstruert, og uansett hvor naturlig det måtte høres ut, så vil koblingen brytes i det øyeblikket strømmen til instrumentet kuttes. Et akustisk piano derimot vil alltid gi en eller annen form for respons. Man får til og med en fysisk og lydlig tilbakemelding fra instrumentet selv om strengen man spiller på har røket. Denne grunnleggende forskjellen mellom naturlige og kunstige koblinger vil stå sentralt i resten av diskusjonen i dette kapitlet.
 
-Naturlige koblinger -------------------
+## Naturlige koblinger
 
 Grunnlaget for en naturlig kobling mellom handling og lyd er at det må være minst to objekter og én lydproduserende handling involvert, slik som det er skissert i figur 52. Et objekt brukes her for å beskrive alle fysiske objekter som kan brukes til lydproduksjon. Dette kan være for eksempel en hånd, et vannglass, en trommestikke, eller en pianohammer. I en naturlig sammenheng er det de materielle egenskapene til objektene, og de mekaniske eller biomekaniske egenskapene til handlingene, som er grunnlaget for lyden som produseres. Gjennom vår erfaring med forskjellige objekter og handlinger har vi bygget opp en forståelse for slike akustiske og mekaniske egenskaper. Det er denne forståelsen som ligger til grunn for vår evne til å forestille oss det klingende resultatet av en lydproduserende handling.
 
@@ -43,7 +43,7 @@ Iterative koblinger er en kombinasjon av de to foregående typene. Eksempler på
 
 Meningen med en klassifikasjon av forskjellige koblinger mellom bevegelse og lyd er ikke å gruppere instrumenter, men snarere ha en modell for å forstå hvordan vi oppfatter forskjellige lydkvaliteter med utgangspunkt i de lydproduserende handlingene. Det finnes derfor mange eksempler på instrumenter som dekker alle de tre typene. På fiolin kan man spille impulsiv *pizzicato,* utholdt *legato* og iterativ *tremolo*. At disse tre spilleteknikkene kan identifiseres fra det lydlige resultatet, noe som vitner om at vi har en klar forståelse av koblingen mellom handling og lyd.
 
-Persepsjon av handling–lyd-koblinger ------------------------------------
+## Persepsjon av handling–lyd-koblinger
 
 Ikke bare er vi mennesker flinke til å raskt identifisere naturlige lyder som kommer fra forskjellige objekter og handlinger, men vi kan også assosiere forskjellige kvaliteter til lydene vi hører (Gaver 1993a, 1993b). I eksemplet med glasset som faller i gulvet, kan lyden i seg selv gi oss informasjon om alt fra hvilket materiale glasset er laget av, underlaget det traff, avstanden det falt, om det ble kastet eller sluppet osv. Når det gjelder menneskestemmer har den svenske psykologen Patrik Juslin funnet at lyden av stemmen er nok til at vi kan si noe om en persons kjønn, alder, oppvekststed, sosial status og helse (Juslin og Scherer 2005). Det at vi er i stand til å identifisere egenskaper basert på lyd, gjelder ikke bare når vi lytter aktivt til en lyd, men også når vi registrerer lyder i hverdagen (Rocchesso og Fontana 2003). Fra et økologisk perspektiv er dette viktig læring, ettersom evnen til å gjenkjenne og identifisere lydkilder er viktig for vår overlevelsesevne.
 
@@ -69,14 +69,12 @@ Noen av de tidlige studiene av audiovisuelle speilnevroner ble kritisert for bar
 
 En nyere studie viser en lignende type ufrivillig motoraktivitet også hos ikke-musikere (Lahav et al. 2007). Eksperimentet begynte med at ikke-musikere øvde inn en melodi på piano etter gehør. Etter dette viste *funksjonell magnetresonanstomografi* (fMRI) at motorområder i hjernen ble aktivert når personene lyttet til den melodien de hadde øvd inn, selv om de satt helt stille. Denne aktiveringen skjedde bare når de lyttet til den samme melodien som de hadde øvet inn; variasjoner av melodien resulterte i lite eller ingen aktivering. En stadig økende grad av nevrovitenskapelige undersøkelser støtter opp under ideen om at koblinger mellom handling og lyd ikke bare er en teoretisk mulighet, men snarere en integrert del av vårt kognisjonsapparat.
 
-Kunstige handling–lyd-koblinger -------------------------------
+## Kunstige handling–lyd-koblinger
 
 Naturlige koblinger mellom handling og lyd er basert på de mekaniske og akustiske egenskapene til objektene og handlingene som er involvert. Men vi omgir oss i økende grad også med en rekke kunstige handling–lyd-koblinger som er designet og laget elektronisk. Vi kan skille mellom tre forskjellige hovedtyper av slike kunstige koblinger:
 
 -   *direkte*
-
 -   *indirekte*
-
 -   *virtuelle*
 
 De *direkte* koblingene inkluderer alt fra ringeklokker til mobiltelefoner og elektroniske musikkinstrumenter. I slike enheter blir lyden produsert elektronisk og kommer ut gjennom en høyttaler i eller i nærheten av enheten. Interaksjonen med enheten skjer gjerne gjennom en form for mekanisk kontrollenhet, slik som en knapp, bryter eller joystick.
@@ -95,14 +93,12 @@ I musikalsk sammenheng ser vi at konstruksjon av nye handling–lyd-koblinger, b
 
 I noen tilfeller kan slike utvidelser av handling–lyd-koblinger bli så vanlige at de regnes som en standardisert del av et instrument. Det er for eksempel vanskelig å forestille seg en rockegitarist uten forskjellige effektpedaler. I den senere tiden har det også blitt vanlig at datamaskiner overtar en del av funksjonene som separate bokser har hatt tidligere, samt åpner for mer avansert lydbehandling. Slike nye koblinger mellom handling og lyd kan i noen tilfeller fungere godt, men ikke alltid. Eksempler på dette er digitale musikkinstrumenter der koblingen mellom *kontroller* og *lydenhet* er svak. I dag ser man ofte at pianolignende kontrollere brukes til å styre alle former for elektronisk lyd. Resultatet kan være at koblingen ikke føles naturlig eller spennende hverken for utøver eller for publikum. Det er derfor et stigende behov for et mer bevisst forhold til design av handling–lyd-koblinger, noe vi skal se nærmere på i kapittel 8.
 
-Sammendrag ----------
+## Sammendrag
 
 I dette kapitlet har vi sett på forskjellen mellom *naturlige* og *kunstige* handling–lyd-koblinger. Det lydlige resultatet i en naturlig kobling er basert på de mekaniske egenskapene til handlingen og de akustiske egenskapene til objektene som er involvert. Vår livslange erfaring med naturlige koblinger danner grunnlaget for vår evne til å forestille oss lyden av en handling vi bare ser, eller forestille oss handlingen til en lyd vi bare hører. Dette gjør vi ved hjelp av multimodale *mentale bilder* som representerer både bevegelse og lyd. En slik teoretisk modell støttes av funnet av *audiovisuelle speilnevroner* i hjernen. Dette er nevroner som aktiveres når man ser en lydproduserende handling, hører lyden av handlingen eller både ser og hører handlingen. Kunnskap om naturlige koblinger mellom handling og lyd er viktig når man designer kunstige koblinger i elektronikk. Ettersom de kunstige koblingene kan designes fritt, vil koblingens perseptuelle kvalitet være avhengig av hvordan den ligner på, eller bryter med, naturlige koblinger som den minner om.
 
 ### Les mer
 
--   lydkildepersepsjon: Giordano (2005)
-
--   koblinger mellom handling og lyd: Godøy og Leman (2009)
-
--   økologisk lytting: Clarke (2005)
+B> - Lydkildepersepsjon: Giordano (2005)
+B> - Koblinger mellom handling og lyd: Godøy og Leman (2009)
+B> - Økologisk lytting: Clarke (2005)
