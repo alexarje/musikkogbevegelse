@@ -94,7 +94,11 @@ Adam Kendon (2004) har definert gest som en *synlig handlingsytring* og knytter 
 
 Funn fra observasjonsstudiene ledet McNeill (1992, 12–19) til utviklingen av en klassifisering av forskjellige gestikkfunksjoner basert på de fem typene av ikke-verbal atferd som ble beskrevet av Ekman og Friesen (1969):
 
-- *Ikoner* representerer en bestemt egenskap ved en handling eller et objekt, og kan beskrives etter formen og utførelsen av gesten. Ikoniske gester brukes for å illustrere en handling, for eksempel å imitere banking på en dør ved å slå i luften. - *Metaforer* ligner på ikoniske gester, men representerer en abstrakt funksjon. Et eksempel er å holde opp hendene og si ”noe skjedde”, der gesten refererer til enheten ”noe”. - *Slag* forekommer sammen med tale for å understreke bestemte ord. Typiske slagbevegelser går enten opp/ned eller inn/ut, og kan tydeliggjøre poengene i talen. Slagbevegelser brukes ofte aktivt av politikere for å understreke bestemte poenger. - *Peking* indikerer en retningsbestemt handling, for eksempel å rette fingeren i en bestemt retning og si ”der borte”. - *Emblemer* er innlærte handlinger med en bestemt mening, for eksempel tommelen opp eller vinking når man sier ”ha det” til noen.
+* *Ikoner* representerer en bestemt egenskap ved en handling eller et objekt, og kan beskrives etter formen og utførelsen av gesten. Ikoniske gester brukes for å illustrere en handling, for eksempel å imitere banking på en dør ved å slå i luften.
+* *Metaforer* ligner på ikoniske gester, men representerer en abstrakt funksjon. Et eksempel er å holde opp hendene og si ”noe skjedde”, der gesten refererer til enheten ”noe”.
+* *Slag* forekommer sammen med tale for å understreke bestemte ord. Typiske slagbevegelser går enten opp/ned eller inn/ut, og kan tydeliggjøre poengene i talen. Slagbevegelser brukes ofte aktivt av politikere for å understreke bestemte poenger.
+* *Peking* indikerer en retningsbestemt handling, for eksempel å rette fingeren i en bestemt retning og si ”der borte”.
+* *Emblemer* er innlærte handlinger med en bestemt mening, for eksempel tommelen opp eller vinking når man sier ”ha det” til noen.
 
 At gester sameksisterer med tale, betyr ikke at gest og tale nødvendigvis sammenfaller i tid, men snarere at de utfyller hverandre. For å beskrive gestenes forhold til talen foreslo Kendon (1982) fire forskjellige kategorier: *gestikulering*, *emblemer*, *pantomime* og *tegnspråk*. McNeill (1992, 37) videreutviklet disse til det han kalte et *Kendon-kontinuum* som vist i figur 6. I denne sammenhengen brukes *gestikulering* for å beskrive gester som alltid sammenfaller med tale. *Emblemer* brukes for å beskrive gester som kan sammenfalle med tale, men som ikke nødvendigvis alltid gjør det. *Pantomime* og *tegnspråk* er derimot eksempler på gester som er lingvistisk selvstendige, og hvor forståelsen av gesten kan forringes hvis de sammenfaller med tale.
 
@@ -126,4 +130,7 @@ Kapitlet begynte med å presentere hvordan vår opplevelse av forskjellige rom h
 
 ### Les mer
 
-B> - kropp og bevegelse: Engelsrud (2006) - bevegelsesvitenskap: Abernethy et al. (2005) - gester: McNeill (2005)
+B>
+* kropp og bevegelse: Engelsrud (2006)
+* bevegelsesvitenskap: Abernethy et al. (2005)
+* gester: McNeill (2005)

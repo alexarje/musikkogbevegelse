@@ -6,9 +6,8 @@ A> I dette kapitlet skal vi se nærmere på forskjellige kvalitative og kvantita
 
 Det er ulike måter å analysere bevegelser på, og det er også mange måter å studere musikkrelaterte bevegelser på. Generelt kan vi skille mellom *deskriptive* og *funksjonelle* analysemetoder:
 
-- *Deskriptive analysemetoder*: Bevegelser beskrives med utgangspunkt i deres *kinematiske* (for eksempel hastighet), *romlige* (størrelsen på rommet de utfolder seg i) og *temporale* dimensjoner (for eksempel frekvensomfanget).
-
-- *Funksjonelle analysemetoder*: Bevegelser studeres med tanke på funksjonene de har i en viss kontekst, for eksempel om de er lydproduserende, lydmodifiserende, osv.
+* *Deskriptive analysemetoder*: Bevegelser beskrives med utgangspunkt i deres *kinematiske* (for eksempel hastighet), *romlige* (størrelsen på rommet de utfolder seg i) og *temporale* dimensjoner (for eksempel frekvensomfanget).
+* *Funksjonelle analysemetoder*: Bevegelser studeres med tanke på funksjonene de har i en viss kontekst, for eksempel om de er lydproduserende, lydmodifiserende, osv.
 
 Når man skal studere bevegelser er det vanlig å begynne med en deskriptiv analyse, og deretter bruker man dette som utgangspunkt for en funksjonell analyse. I dette og neste kapittel skal vi se på forskjellige former for deskriptiv analyse. I kapittel 5 og 6 ser vi nærmere på funksjonell analyse.
 
