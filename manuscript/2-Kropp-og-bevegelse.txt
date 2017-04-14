@@ -26,7 +26,7 @@ Publikums forståelse av de ulike handlingsrommene som gjelder for et instrument
 
 
 
-Holdning, positur og posisjon -----------------------------
+## Holdning, positur og posisjon
 
 Før vi kommer til definisjonen av bevegelse, kan det være relevant å se på noen begreper som dekker kroppens plassering og form. Her kan vi skille mellom de tre begrepene *holdning*, *positur* og *posisjon*. En persons *holdning* er knyttet til måten man fører kroppen på, for eksempel om man er rak- eller krumrygget. Ofte snakker man om at en person har en bestemt holdning, og da referer man til en statisk egenskap ved hvordan en persons kropp oppfattes.
 
@@ -40,7 +40,7 @@ En *positur* er gjerne en bevisst, tilgjort stilling hvor kroppens holdning i se
 
 Oppbygningen av en vanlig konsertsituasjon er dermed at utøveren kommer inn og plasserer seg i sceneposisjon, hviler i grunnposisjon, beveger seg til startposisjon og begynner å spille i utøvelsesposisjon. På slutten av stykket går man tilbake til startposisjon og grunnposisjon før man tar imot applaus og går ut av sceneposisjon. Selv om de ulike posisjonene kan være forskjellige fra musiker til musiker, er funksjonen de spiller av avgjørende betydning for hvordan publikum opplever utøvelsen. Dette er fordi publikums forventninger skapes av hvilken posisjon musikeren befinner seg i. Vår evne til å se disse posisjonene er ofte basert på holdning og positur snarere enn på bevegelsene vi ser. Fraværet av bevegelse kan på denne måten være like kommunikativ som bevegelse, på samme måte som stillhet kan være en effektiv kontrast til lyd.
 
-Bevegelse ---------
+## Bevegelse
 
 Det er flere måter å beskrive og forstå bevegelser på. I *biomekanikken* brukes teori og metode fra fysikkens mekanikk for å forstå hvordan levende organismer beveger seg. Da kan en bevegelse defineres som forflytningen av et objekt i rom over tid. Bevegelser kan også forstås som en serie *handlinger* som følger etter hverandre, men som hver for seg danner en avgrenset enhet. Hvis man har et slikt fokus er det innholdet i handlingen som er det vesentlige, mens utførelsen av handlingen er mindre viktig. En tredje måte å studere bevegelser på er som meningsbærende enheter, eller det som gjerne kalles *gester*. Da er det bevegelsenes kommunikative funksjon som står i fokus. I de neste avsnittene skal vi se nærmere på disse forskjellige forståelsene av bevegelser.
 
@@ -54,7 +54,7 @@ Strykebevegelser er eksempler på utholdte bevegelser der utøveren har kontinue
 
 Selv om vi her snakker om forskjellige bevegelsestyper, er det viktig å huske på at de fleste naturlige bevegelser er både sammensatte og komplekse. Når man spiller et instrument, brukes ofte impulsive eller iterative fingerbevegelser, mens albue, skuldre og hode gjerne er basert på utholdte bevegelser. Vi skal se nærmere på hvordan vi kan forstå noe av denne kompleksiteten i musikkrelaterte bevegelser i kapittel 5, og i kapittel 7 skal vi se på hvordan vi kan forstå lydobjekter med utgangspunkt i de tre bevegelsestypene.
 
-Handling --------
+## Handling
 
 En *handling* kan defineres som en *målrettet bevegelsessekvens* som begynner og slutter i en grunnposisjon. Handlinger har vanligvis en funksjon; man kan åpne et vindu, løfte en stol eller slå an en tangent. En handling er ofte basert på en bevegelse, men ikke alltid. Å holde fast i en veske kan være en handling selv om det ikke er bevegelse involvert.
 
@@ -68,7 +68,7 @@ Den britiske psykologen og gestikkforskeren Adam Kendon (2004, 111) har utviklet
 
 ![Figur 5: En lydproduserende handling er bygget opp av et prefiks, en eksitasjon og suffiks (Godøy 2008).](images/5-prefiks-suffiks.jpg)
 
-Frihetsgrader -------------
+## Frihetsgrader
 
 *Frihetsgrad* brukes ofte for å uttrykke graden av kompleksitet i et bevegelig system, og refererer til antallet uavhengige bevegelsesmuligheter som er tilgjengelig i systemet (Rosenbaum 1991, 5). Et dørhåndtak har én bevegelig del som kan beveges i én retning, og gir da systemet én frihetsgrad. En kontorbordlampe kan ha fire frihetsgrader: hele lampen kan roteres rundt foten, den har en knekk som kan justere høyden, og selve lampehodet kan beveges opp og ned og til siden. For slike enkle mekaniske konstruksjoner er det ukomplisert å beregne antall frihetsgrader, men det blir mer komplekst når man forsøker å beregne frihetsgrader for et musikkinstrument eller for menneskekroppen. For å bevege en arm bruker vi skulderleddet, albuen og håndleddet, og hver av disse kan beveges i tre dimensjoner samt roteres i tre dimensjoner. Dette resulterer i et komplekst bevegelsessystem med mange frihetsgrader som skal koordineres ved enhver bevegelse.
 
@@ -80,13 +80,13 @@ Mennesker er generelt fleksible når det kommer til å tilpasse seg stadig nye s
 
 Musikere kan ses på som bevegelsesspesialister med høyt utviklede ferdigheter for å kontrollere komplekse bevegelsesmønstre med en så liten grad av anstrengelse som mulig (Jäncke 2006). Dette er dokumentert i kognitive studier der musikere viste en stor grad av flyt, hastighet, presisjon og nøyaktighet i bevegelsene sine (Drake og Palmer 2000). Musikerne viste også at de kan planlegge og utføre lengre og mer komplekse bevegelsesmønstre enn ikke-musikere.
 
-Koartikulasjon --------------
+## Koartikulasjon
 
 *Koartikulasjon* er evnen til å kombinere flere enkeltstående handlinger til sammensatte handlinger. Begrepet kommer fra lingvistikken der det har blitt brukt for å beskrive sammensmeltingen av fonemer og ord i tale (Hardcastle og Hewlett 1999). Det samme fenomenet kan imidlertid observeres i mange andre former for bevegelse. Rumelhart og Norman (1982) viser eksempler på koartikulasjon hos personer som skriver på skrivemaskin, der de enkelte fingerbevegelsene på tastaturet kan ses som organisert innenfor mer overordnede håndbevegelser. Fingerbevegelsene organiseres etter en forventning om kommende bevegelser, der man hele tiden må planlegge og forberede seg på hva som kommer til å skje innenfor et kort tidsintervall.
 
 Å spille skalaer eller løp på et instrument involverer stort sett alltid en form for koartikulerte bevegelser, der man forbereder seg til neste anslag før man er ferdig med det forrige. Særlig når man spiller fort, er det nødvendig å planlegge plasseringen av fingre før man spiller selve tonen. Hos pianister som spiller skalaer, ser man for eksempel hvordan tommelen legges på plass under hånden for å kunne komme raskt videre i løpet. Godøy (2004) argumenterer for at musikalsk frasering, artikulasjon og intonasjon er basert på koartikulasjon, og at dette vitner om at sammensatte og komplekse handlinger er en viktig del av vår musikkognisjon.
 
-Gest ----
+## Gest
 
 I dagligtale brukes begrepet *gest* ofte for å beskrive håndbevegelser som blir brukt i mellommenneskelig kommunikasjon. Tommelen opp, vinking eller veiving med armene i en høylytt diskusjon er eksempler på gester, kroppsbevegelser med en meningsbærende funksjon. Hva meningen er, kan variere fra person til person og kultur til kultur. Allikevel kan vi si at det som skiller en gest fra andre typer bevegelser, er den meningsbærende rollen den spiller i kommunikasjonen. I dette avsnittet skal vi se på hvordan begrepet gest brukes i ulike sammenhenger, og hvordan disse definisjonene relaterer seg til hverandre. Vi skal også se på hvordan gester kan forstås i en musikalsk sammenheng.
 
@@ -114,7 +114,7 @@ Gest har også blitt tatt i bruk innenfor musikkforskningen i de senere årene. 
 
 Det som ser ut til å gå som en rød tråd gjennom de fleste av definisjonene av gest som er beskrevet i dette avsnittet, er at det ligger en eller aller annen form for kommunikasjon til grunn for bruken av begrepet. Denne kommunikasjonen er gjerne også knyttet til bevegelse. Hva slags bevegelse det er snakk om, eller hvor meningsdannelsen skjer, varierer derimot fra definisjon til definisjon.
 
-Sammendrag ----------
+## Sammendrag
 
 Kapitlet begynte med å presentere hvordan vår opplevelse av forskjellige rom har en betydning for de begrensningene vi legger i handlingsutøvelse. *Scenerom* er området der utøvelse finner sted. *Kroppsrom* er det området som kan dekkes når man strekker seg i alle retninger. *Handlingsrom* er de områdene hvor forskjellige handlinger utfolder seg. Opplevelsen av disse rommene er subjektiv, og forandrer seg over tid. De spiller allikevel en viktig rolle i å forberede oss mentalt på hvor handling kan finne sted.
 
@@ -126,4 +126,4 @@ Kapitlet begynte med å presentere hvordan vår opplevelse av forskjellige rom h
 
 ### Les mer
 
-- kropp og bevegelse: Engelsrud (2006) - bevegelsesvitenskap: Abernethy et al. (2005) - gester: McNeill (2005)
+B> - kropp og bevegelse: Engelsrud (2006) - bevegelsesvitenskap: Abernethy et al. (2005) - gester: McNeill (2005)

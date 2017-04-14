@@ -16,12 +16,12 @@ Når man skal studere bevegelser er det vanlig å begynne med en deskriptiv anal
 
 Det har etter hvert vokst frem en rekke forskjellige teknologier for å registrere bevegelser, og disse kalles med en samlebetegnelse for *motion capture* på engelsk. Motion capture oversettes gjerne til *bevegelsessporing* på norsk. Målet med bevegelsessporingssystemer er å ta opp og lagre informasjon om bevegelser, for deretter å bruke dette som utgangspunkt for senere analyser. Det er altså snakk om en form for deskriptiv analyse, der deler av bevegelsen registreres og lagres digitalt. Man kan skille mellom følgende teknikker:
 
-- elektromagnetiske systemer
-- mekaniske systemer
-- kinetiske systemer
-- optisk-visuelle systemer
-- optisk-infrarøde systemer
-- fysiologiske systemer
+* elektromagnetiske systemer
+* mekaniske systemer
+* kinetiske systemer
+* optisk-visuelle systemer
+* optisk-infrarøde systemer
+* fysiologiske systemer
 
 Alle disse har igjen en rekke underkategorier som vi skal se nærmere på i de etterfølgende avsnittene.
 
