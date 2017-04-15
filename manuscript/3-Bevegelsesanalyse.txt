@@ -137,9 +137,9 @@ Selv om de fire kraft-parametrene bare er en liten del av Labans bevegelseslære
 
 For å bruke Labans metoder i egne bevegelsesanalyser stiller Schrader (2004, 75) forskjellige spørsmål om bevegelsene:
 
-- Hvordan er bevegelsesmønstret strukturert i tid? Er det raskt eller langsomt? Finnes det en rytmisk struktur, og er den jevn eller ujevn?
-- Hvordan er bevegelsesmønstret strukturert i rom? Hvilken retning går bevegelsen i? Er bevegelsen horisontal eller vertikal? Er den rett eller buet?
-- Hvordan er bevegelsesmønstret strukturert i kraft? Er det bundet eller fritt? Er det noen bestemte fraseringer? Hvordan skiller mønstret seg fra andre mønstre?
+* Hvordan er bevegelsesmønstret strukturert i tid? Er det raskt eller langsomt? Finnes det en rytmisk struktur, og er den jevn eller ujevn?
+* Hvordan er bevegelsesmønstret strukturert i rom? Hvilken retning går bevegelsen i? Er bevegelsen horisontal eller vertikal? Er den rett eller buet?
+* Hvordan er bevegelsesmønstret strukturert i kraft? Er det bundet eller fritt? Er det noen bestemte fraseringer? Hvordan skiller mønstret seg fra andre mønstre?
 
 I arbeidet med en slik analyse kan det være nyttig å forsøke å forestille seg at man er inne i kroppen til den man studerer. Utgangspunktet for Laban var nettopp at man skal forsøke å analysere med utgangspunkt i hvordan det kjennes fra ens egen kropp.
 
@@ -149,8 +149,8 @@ Kapitlet startet med en gjennomgang av forskjellige systemer som måler bevegels
 
 I den siste delen av kapitlet så vi på kvalitative observasjonsteknikker, og da særlig *Labanotasjon* og *Labans bevegelsesanalyse*. Dette er metoder som har blitt utviklet for å beskrive bevegelser med utgangspunkt i det menneskelige øye og den menneskelige erfaringen. I noen sammenhenger vil dette være bedre enn de beste bevegelsessporingssystemene. Imidlertid vil disse metodene være mer avhengig av at det er en kvalifisert person som utfører nedtegnelsen, og presisjonsnivået i en slik analyse vil kunne variere mye.
 
-### Les mer
-
+T> ### Les mer
+T>
 T> - Historien til bevegelsessporingssystemer: Roetenberg (2006)
 T> - Labans bevegelsesanalyse: Newlove og Dalby (2004)
 T> - Labanotasjon: Guest (2004)
