@@ -120,8 +120,8 @@ Det teoretiske fundamentet for Labanotasjon ble utviklet i Labans *bevegelseslæ
 
 Begrepet *kraft* ble utviklet i boken *Effort* av Laban og Lawrence (1947), og ble der delt inn i fire underkategorier med tilhørende deskriptive akser:
 
-* rom: direkte–indirekte
-* tid: brå–utholdt
+* rom: direkte--indirekte
+* tid: brå--utholdt
 * tyngde: kraftig–lett
 * flyt: bundet–fri
 
