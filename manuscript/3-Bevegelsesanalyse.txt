@@ -120,10 +120,10 @@ Det teoretiske fundamentet for Labanotasjon ble utviklet i Labans *bevegelseslæ
 
 Begrepet *kraft* ble utviklet i boken *Effort* av Laban og Lawrence (1947), og ble der delt inn i fire underkategorier med tilhørende deskriptive akser:
 
-- rom: direkte–indirekte
-- tid: brå–utholdt
-- tyngde: kraftig–lett
-- flyt: bundet–fri
+* rom: direkte–indirekte
+* tid: brå–utholdt
+* tyngde: kraftig–lett
+* flyt: bundet–fri
 
 *Rom* beskriver hvordan man beveger seg gjennom det fysiske rommet man befinner seg i, og hvordan man forholder seg til *kinesfæren*, det maksimale området vi kan rekke hvis vi strekker oss i alle retninger fra en bestemt posisjon (det som ble kalt kroppsrom i kapittel 2).
 
