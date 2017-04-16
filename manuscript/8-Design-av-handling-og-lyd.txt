@@ -46,11 +46,11 @@ Frikoblingen av handling og lyd i elektroniske instrumenter kan på mange måter
 
 Vi kan identifisere tre retninger innen dagens kommersielle musikkontrollere:
 
--   Kontrollere som er basert på tangentinstrumenter. Variasjonen ligger     her i størrelsen på klaviaturet, om det er lette eller tunge     tangenter, samt antall ekstra knapper og brytere.
+* Kontrollere som er basert på tangentinstrumenter. Variasjonen ligger her i størrelsen på klaviaturet, om det er lette eller tunge tangenter, samt antall ekstra knapper og brytere.
 
--   Kontrollere som er basert på miksepulter. Her synes det som om målet     er å få inn så mange knapper og brytere som mulig.
+* Kontrollere som er basert på miksepulter. Her synes det som om målet er å få inn så mange knapper og brytere som mulig.
 
--   Andre typer kontrollere. Disse kan være basert på akustiske     instrumenter, for eksempel blåsekontrollere og trommekontrollere,     eller et friere design.
+* Andre typer kontrollere. Disse kan være basert på akustiske instrumenter, for eksempel blåsekontrollere og trommekontrollere, eller et friere design.
 
 Det er særlig de to første kategoriene som har stor utbredelse. Slike kontrollere kan være hensiktsmessige til mange formål, men et ensidig fokus på kontrollere med mange knapper og brytere påvirker også i stor grad musikken man kan lage med denne teknologien. Eksempler på dette kan ses i mange elektroniske instrumenter der man bruker pianolignende kontrollere for å styre alle former for lydenheter. Hvis man styrer fiolinlyd med pianobevegelser, vil nok dette oppleves som en unaturlig kobling for mange, ettersom det bryter med den grunnleggende forståelsen av sammenhengen mellom handling og lyd.
 

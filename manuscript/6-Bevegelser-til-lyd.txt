@@ -77,7 +77,7 @@ Det er flere utfordringer knyttet til studier av luftinstrumentspilling. Én utf
 
 En annen utfordring er mangelen på fysisk kontakt med et instrument. De lydproduserende handlingene man utfører på et instrument, er basert på den fysiske motstanden man møter i instrumentet. Når man slår på en tangent, vil fingeren nødvendigvis stoppe når man treffer tangenten, og resten av kroppsbevegelsen vil følge etter. På et luftinstrument må man selv skape denne motstanden i armen når man spiller. Så energimessig kan luftinstrumentspilling ses på som det motsatte av det å spille et instrument. På instrumentet fokuserer man på energieffektivisering, mens man på et luftinstrument må bruke dobbelt så mye energi, både kraft og motkraft. At man likevel får til dette, vitner om en grunnleggende forståelse av de prosessene som ligger til grunn for det å spille et instrument.
 
-Dans til musikk ---------------
+## Dans til musikk
 
 Det finnes mye litteratur som forsøker å få dansere til å danse bedre til musikk. Tilsvarende finnes det noe litteratur for å hjelpe musikere til å spille til dans, for eksempel Teck (1990). Det finnes derimot ikke så mange studier som tar for seg spontandans til musikk. Etter å ha gjennomført studien av luftinstrumentspilling var vi interessert i å se på hvordan personer spontant danser til musikk. Her var også målet å studere forskjeller mellom noviser og eksperter, så vi rekrutterte personer med forskjellig erfaring. I dette avsnittet skal vi konsentrere oss om opptakene av tre studenter i moderne dans. Alle tre hadde bakgrunn fra klassisk og moderne dans, og hadde også spilt ett eller flere musikkinstrumenter som barn. Ved å velge tre deltagere med så lik bakgrunn for studien, er det mulig å utføre en komparativ analyse der de individuelle forskjellene kommer tydelig frem.
 
@@ -89,7 +89,14 @@ Det har blitt gjort flere forsøk på å definere paralleller mellom musikk og b
 
 **Tabell 2: Hodgins (1992) koreomusikalske paralleller av sammenhenger mellom egenskaper i dansebevegelser og musikalsk lyd.**
 
-|             | Dans                  | Musikk | |  ---------- | --------------------- | -------------------------------- | |  Rytmikk    | Bevegelseshastighet   | Aksentuering, takt, handlingstetthet | |  Dynamikk   | Bevegelsesvolum       | Musikalsk dynamikk | |  Tekstur    | Antall personer       | Antall instrumenter, homofoni vs. polyfoni | |  Struktur   | Fraser, motiver       | Fraser, motiver | |  Kvalitet   | Bevegelsesnatur       | Klangfarge, artikulasjon | |  Mimetikk   | Imitasjon, bilder     | Bilder |
+|             | Dans                  | Musikk |
+|  ---------- | --------------------- | -------------------------------- |
+|  Rytmikk    | Bevegelseshastighet   | Aksentuering, takt, handlingstetthet |
+|  Dynamikk   | Bevegelsesvolum       | Musikalsk dynamikk |
+|  Tekstur    | Antall personer       | Antall instrumenter, homofoni vs. polyfoni |
+|  Struktur   | Fraser, motiver       | Fraser, motiver |
+|  Kvalitet   | Bevegelsesnatur       | Klangfarge, artikulasjon |
+|  Mimetikk   | Imitasjon, bilder     | Bilder |
 
 Noen av parallellene er enklere å forholde seg til enn andre, særlig rytmikk, dynamikk, tekstur og struktur. Den rytmiske parallellen kan forstås med utgangspunkt i temporale aspekter ved både lyd og bevegelse. Den dynamiske parallellen er knyttet til utstrekning og volum i bevegelser i forhold til dynamikk i lyden (for eksempel intensitet og lydnivå). Den teksturale komponenten relaterer seg til tettheten i enheter i både bevegelse og lyd, og kan knyttes direkte til antall personer som danser eller antall instrumenter som spiller. Den strukturelle kvaliteten dreier seg om likheter i fraser og motiver mellom bevegelse og lyd. Eksempler på disse parallellene kan ses i Figur 44. Her vises et utsnitt fra to musikkeksempler som hver er repetert tre ganger. Det første eksemplet er preget av en blanding av utholdte og iterative toner i lavt register, mens det andre eksemplet har mer dynamikk og ligger i et høyt register. Bevegelseskurvene for hver av de tre danserne viser mindre og mer utholdte bevegelser i det første eksemplet, og stor variasjon i dynamikk, rytmikk og tekstur i det andre eksemplet.
 
@@ -101,7 +108,7 @@ De to siste parallellene til Hodgins refererer til henholdsvis kvaliteter i beve
 
 Flere lignende korrelasjoner kan ses i materialet, selv om de ofte er utført forskjellig av danserne. En ”flytende” bevegelse kan for eksempel gjøres med en fot, en hånd eller hele kroppen; de underliggende kvalitetene kan allikevel være like. Når man studerer et slikt materiale kan det være en fordel å begynne med en bred, kvalitativ analyse. Deretter er det mulig å finne frem til noen parametre som kan brukes som utgangspunkt for en kvantitativ studie av bestemte egenskaper i bevegelse og lyd.
 
-Lydskissering -------------
+## Lydskissering
 
 Studiene som ble presentert i de foregående avsnittene, har fokusert på full kroppsbevegelse til musikalsk lyd. En annen tilnærming er å studere bevegelser fra bare én del av kroppen, for eksempel håndbevegelser. I boken *Det musiske menneske* skriver den norske musikkforskeren Jon-Roar Bjørkvold om hvordan barn tegner til musikk. Han undersøker hvordan bevegelsene de gjør på arket, på forskjellig måte kan relateres til elementer i den musikalske lyden (Bjørkvold 1989, 80–82). Vi ønsket å studere slik tegning til lyd i mer detalj og laget en studie der målet var å se hvordan man skisserer opplevelsen av musikalsk lyd med en penn.
 

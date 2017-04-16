@@ -6,8 +6,8 @@ A> I dette kapitlet skal vi se nærmere på forskjellige typer koblinger mellom 
 
 Tenk på en hånd som holder et vannglass, og som deretter slipper glasset slik at det faller mot gulvet. Mens det fremdeles er i luften, vil du kunne forestille deg både det visuelle og lydlige resultatet når glasset treffer gulvet og knuser. Siden du vet at lyden som kommer, kan være ubehagelig, forsøker du kanskje å dekke ørene for å beskytte hørselen. Denne intuitive forståelsen av sammenhengen mellom objekter, handlinger som utføres med objektene, og lyden som oppstår av handlingen, er basert på det vi kan kalle en *kobling* mellom handling og lyd. Vi kan skille mellom to hovedtyper av slike koblinger:
 
-- En *naturlig* handling–lyd-kobling er basert på en mekanisk overføring av energi mellom objekter. Slike koblinger finner man i naturen.
-- En *kunstig* handling–lyd-kobling er basert på en elektronisk overføring av tall fra en sensor til en lydenhet. Slike koblinger finner man i elektroniske instrumenter, datamaskiner, osv.
+* En *naturlig* handling–lyd-kobling er basert på en mekanisk overføring av energi mellom objekter. Slike koblinger finner man i naturen.
+* En *kunstig* handling–lyd-kobling er basert på en elektronisk overføring av tall fra en sensor til en lydenhet. Slike koblinger finner man i elektroniske instrumenter, datamaskiner, osv.
 
 Disse definisjonene beskriver oppbygningen av en kobling og ikke vår oppfattelse av resultatet av koblingen. Vi kan forklare forskjellen mellom en naturlig og en kunstig kobling ved å sammenligne et digitalt og et akustisk piano. I et akustisk piano finner man en naturlig kobling, ettersom lyden skapes ved hjelp av et mekanisk system der man slår an en tangent, og energien overføres videre til en hammer som slår an en streng. I et digitalt piano er det derimot ingen direkte energioverføring mellom handling og lyd. Energien som skapes når man slår ned tangenten, registreres av en sensor som sender digital informasjon videre til en lydenhet som produserer lyden.
 
@@ -73,9 +73,9 @@ En nyere studie viser en lignende type ufrivillig motoraktivitet også hos ikke-
 
 Naturlige koblinger mellom handling og lyd er basert på de mekaniske og akustiske egenskapene til objektene og handlingene som er involvert. Men vi omgir oss i økende grad også med en rekke kunstige handling–lyd-koblinger som er designet og laget elektronisk. Vi kan skille mellom tre forskjellige hovedtyper av slike kunstige koblinger:
 
--   *direkte*
--   *indirekte*
--   *virtuelle*
+* *direkte*
+* *indirekte*
+* *virtuelle*
 
 De *direkte* koblingene inkluderer alt fra ringeklokker til mobiltelefoner og elektroniske musikkinstrumenter. I slike enheter blir lyden produsert elektronisk og kommer ut gjennom en høyttaler i eller i nærheten av enheten. Interaksjonen med enheten skjer gjerne gjennom en form for mekanisk kontrollenhet, slik som en knapp, bryter eller joystick.
 
