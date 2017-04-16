@@ -1,3 +1,5 @@
+{section: bibliography}
+
 # Bibliografi
 
 
@@ -366,7 +368,7 @@ Haueisen, Jens & Thomas R. Knösche 2001. Involuntary motor activity in pianists
 
 
 
-Haugstvedt, Karen T. S. & Mali Melhus 2008 (lest 10/11/2008). Eksempel på analyseskjema - sitte drikke. &lt; http://www.hf.hio.no/ergo/fag/funksjon-ferdighet/bevegelse/analyse/funksjonell-bev-analyse/skjema.htm&gt;
+Haugstvedt, Karen T. S. & Mali Melhus 2008 (lest 10/11/2008). Eksempel på analyseskjema - sitte drikke.
 
 
 

@@ -1,3 +1,5 @@
+{section: mainmatter}
+
 # 1. Musikk og bevegelse
 
 A> I dette kapitlet presenteres det teoretiske fundamentet for en kroppslig musikkognisjon basert på økologisk psykologi. En kroppslig musikkognisjon kan ses som et alternativ til forskjellige kognitive (og ikke-kognitive) musikkteorier der det fremholdes et skille mellom kropp og sinn.
