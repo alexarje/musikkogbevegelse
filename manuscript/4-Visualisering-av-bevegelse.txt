@@ -185,15 +185,21 @@ Som disse eksemplene viser, kan bevegelseskurver være et effektivt hjelpemiddel
 
 Men hva skjer hvis man forsøker å lage bevegelseskurver fra et videomateriale der det er kamerabevegelse, zooming, panorering og klipping mellom forskjellige kameravinkler? Figur 31 viser to bevegelseskurver av musikkdokumentarfilmen *Bring on the Night* av Sting (1985). Den øverste kurven representerer hele filmen (1 time og 40 minutter) og fremstår som fragmentert og visuelt vanskelig å forholde seg til. Den nederste kurven viser de første fem minuttene, og her er det i større grad mulig å se noe av strukturen og innholdet i filmen. Legg særlig merke til hvordan de lange inn- og utzoomingssekvensene i begynnelsen er tydelige, men også den harde klippingen mellom forskjellige opptak. Når man i tillegg kan se fargene, fungerer en slik fremstilling godt som et navigasjonsverktøy.
 
-![Figur 31: Bevegelseskurver av hele (øverst) og de første fem minuttene (nederst) av Stings musikkfilm Bring on the Night.](images/31-sting.jpg)
+![Figur 31a: Bevegelseskurver av hele Stings musikkfilm Bring on the Night.](images/31-stinga.jpg)
+
+![Figur 31b: Bevegelseskurver av de første fem minuttene av Stings musikkfilm Bring on the Night.](images/31-stingb.jpg)
 
 Figur 32 viser bevegelseskurver laget fra konsert-DVD-en *Minimum–Maximum* av Kraftwerk (2005). Her kan man tydelig se hvordan de forskjellige bildeklippene er lagt ut i et strukturert mønster som følger det musikalske innholdet. Det er dermed mulig å bruke bevegelseskurvene som utgangspunkt for å analysere form og struktur i lyd og bilde.
 
-![Figur 32: Bevegelseskurver av hele (øverst) og de første fem minuttene (nederst) av musikk-DVD-en Minimum–Maximum av Kraftwerk (2005).](images/32-kraftwerk.jpg)
+![Figur 32a: Bevegelseskurver av hele musikk-DVDen Minimum–Maximum av Kraftwerk (2005).](images/32-kraftwerka.jpg)
+
+![Figur 32b: Bevegelseskurver av de første fem minuttene av musikk-DVDen Minimum–Maximum av Kraftwerk (2005).](images/32-kraftwerkb.jpg)
 
 Et eksempel på en type videomateriale som ikke egner seg så godt til å lage bevegelseskurver, kan ses i figur 33. Dette er fra en konsert-DVD der Pierre Boulez dirigerer Chicago symfoniorkester i en fremføring av Alban Bergs Lulu (Boulez 2000). Produksjonen er typisk for orkestermusikk, her er det bilder av hele orkesteret på scenen med innklippede detaljbilder av musikerne. De mange innklippene gjør at bevegelseskurvene viser kuttene og ikke bevegelsene i bildet. I tillegg er lyssetting og farger uforandret gjennom hele videoen, noe som gjør at bevegelseskurven ser monoton ut. I kurven som viser de første fem minuttene, kan man allikevel ane strukturen i konserten, hvor titlene er, zooming og panorering, samt nærbilder av solisten. På denne måten kan man si at bevegelseskurvene er representative for innholdet i videoen.
 
-![Figur 33: Bevegelseskurve av hele (øverst) og de første fem minuttene (nederst) av en konsert-DVD med Pierre Boulez som dirigerer Chicago symfoniorkester.](images/33-boulez.jpg)
+![Figur 33a: Bevegelseskurve av hele konsert-DVDen med Pierre Boulez som dirigerer Chicago symfoniorkester.](images/33-bouleza.jpg)
+
+![Figur 33b: Bevegelseskurve av de første fem minuttene av konsert-DVDen med Pierre Boulez som dirigerer Chicago symfoniorkester.](images/33-boulezb.jpg)
 
 Disse eksemplene har vist at det er mulig å bruke bevegelseskurver som utgangspunkt for både navigasjon og analyse av videomateriale der det både er bevegelig kamera og mange bildeskift. Da vil bevegelseskurvene gi mest informasjon om bevegelsene i kamera. Dette vil allikevel kunne gi en oversikt, og hjelp til å navigere i store videofiler.
 
