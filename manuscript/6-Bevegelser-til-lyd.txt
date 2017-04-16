@@ -8,14 +8,14 @@ På T-banen ser man folk som sitter og nikker på hodet eller rister på foten m
 
 I det forrige kapitlet så vi på forskjellige typer bevegelser hos utøvere, og hvilken funksjon slike bevegelser kan ha for vår oppfatning av musikken. En annen måte å observere musikkutfoldelse på kan være å studere bevegelsene til den som opplever musikken. Dette er et tema som i liten grad har vært systematisk utforsket, så det er relativt lite forskningsmateriale å hente kunnskap fra. I dette kapitlet skal vi derfor se nærmere på noen observasjonsstudier vi har utført ved Universitetet i Oslo de siste årene. Gjennom arbeidet med lytteres spontane bevegelser til musikk har vi identifisert flere forskjellige bevegelsestyper:
 
-- *Mimebevegelser* som er beregnet på å mime bevegelsene hos utøveren, for eksempel luftinstrumentspilling.
-- *Lydakkompagnerende bevegelser* som følger bestemte kvaliteter i lyden, men ikke så direkte som mimebevegelser.
-- *Lydskisseringsbevegelser* som mer generelt følger lyden, for eksempel å følge konturene i en melodi med hånden.
-- *Dansebevegelser* som ofte er knyttet til rytmiske kvaliteter i den musikalske lyden.
+* *Mimebevegelser* som er beregnet på å mime bevegelsene hos utøveren, for eksempel luftinstrumentspilling.
+* *Lydakkompagnerende bevegelser* som følger bestemte kvaliteter i lyden, men ikke så direkte som mimebevegelser.
+* *Lydskisseringsbevegelser* som mer generelt følger lyden, for eksempel å følge konturene i en melodi med hånden.
+* *Dansebevegelser* som ofte er knyttet til rytmiske kvaliteter i den musikalske lyden.
 
 I de følgende avsnittene skal vi se nærmere på disse bevegelsestypene og hvordan det er mulig å utvikle teorier og metoder for å studere slike bevegelser.
 
-Luftinstrumentspilling ----------------------
+## Luftinstrumentspilling
 
 La oss begynne med å se på det som kan kalles *mimebevegelser*. Dette er forskjellige typer bevegelser som har som mål å etterligne bevegelser som er sett (eller hørt) hos utøvere av den musikken man beveger seg til. Et eksempel på slike mimebevegelser er *luftinstrumentspilling*, der man ”spiller” et instrument i luften. Det er mulig å mime at man spiller alle instrumenter, men det er mange som tenker på luftgitar som et av de mest populære luftinstrumentene. Dette skyldes nok at gitaren er et instrument som ofte er i fokus i mange musikalske sammenhenger.
 
@@ -35,13 +35,13 @@ Ettersom målet med studien var å se på forskjeller i luftinstrumentspilling m
 
 For å analysere materialet bestemte vi oss for å bruke en kvalitativ analysemetode basert på *samsvar* mellom musikk og bevegelse. Begrepet samsvar brukes her for å beskrive forholdet mellom observerte bevegelser og de bevegelsene som ble brukt for å produsere lyden i det musikalske utdraget. Følgende syv samsvarsegenskaper ble brukt som utgangspunkt for den kvalitative vurderingen:
 
--   generell aktivitet
--  generell tonehøydeplassering
--  detaljert tonehøydeplassering
--  generell tidsplassering
--  detaljert tidsplassering
--  dynamisk forløp
--  artikulasjon
+* generell aktivitet
+* generell tonehøydeplassering
+* detaljert tonehøydeplassering
+* generell tidsplassering
+* detaljert tidsplassering
+* dynamisk forløp
+* artikulasjon
 
 Vi begynte med å se på generelle sammenhenger mellom musikk og bevegelse, for deretter å gå nærmere inn på de detaljerte sammenhengene. Den *generelle aktiviteten* beskriver tetthet av handlinger knyttet til tonetetthet i musikken, uavhengig av tonehøyde og rytmisk plassering. Dette kan ses som en indikasjon på hvordan man oppfatter generelle kvaliteter i musikken. *Generell og detaljert tonehøydeplassering* dreier seg om den romlige plasseringen av hender. Dette kan gi en indikasjon på hvordan personen oppfatter tonehøyder. *Generell og detaljert tidsplassering* beskriver hvordan handlingene struktureres i tid i forhold til oppfattede toner. *Dynamisk forløp* dreier seg om størrelse og hastighet på bevegelser i tilknytning til hvordan man oppfatter dynamikken i lyden. *Artikulasjon* beskriver musikalske kvaliteter som for eksempel aksenter, staccato, legato, accelerando og rubato. De syv forskjellige kategoriene dekker dermed en rekke forskjellige musikalske parametre som det er vanlig å forholde seg til når man evaluerer utøvelse av musikk.
 
@@ -51,9 +51,17 @@ Gjennomsnittsresultatene fra evalueringen av utøverne er oppsummert i tabell 1.
 
 **Tabell 1: Gjennomsnittlig samsvar hos de fem utøverne (A–E) i luftpianostudien. Karakterskalaen går fra 0–3, der 3 er best.**
 
- |       | Egenskap                        | A   |  B   |  C   |  D   |  E | |  --- | ------------------------------- | --: | --:  | --: | --: | ---: | |  1.   | Generell aktivitet              | 1.4 |  1.8 |  2.6 |  2.6 |  3 | |  2.   | Generell tonehøydeplassering    | 0.8 |  1.4 |  2.0 |  2.4 |  2.8 | |  3.   | Detaljert tonehøydeplassering   | 0.2 |  0.6 |  0.8 |  1.6 |  2.4 | |  4.   | Generell tidsplassering         | 1.6 |  1.4 |  1.8 |  2.6 |  2.6 | |  5.   | Detaljert tidsplassering        | 1.0 |  0.2 |  0.8 |  1.8 |  2.2 | |  6.   | Dynamisk forløp                 | 1.0 |  0.8 |  2.2 |  2.8 |  2.8 | |  7.   | Artikulasjon                    | 0.2 |  0.2 |  0.8 |  1.8 |  2.4 |
+|      | Egenskap                        | A   |  B   |  C   |  D   |  E |
+|  --- | ------------------------------- | --: | --:  | --: | --: | ---: |
+| 1.   | Generell aktivitet              | 1.4 |  1.8 |  2.6 |  2.6 |  3 | |
+| 2.   | Generell tonehøydeplassering    | 0.8 |  1.4 |  2.0 |  2.4 |  2.8 |
+| 3.   | Detaljert tonehøydeplassering   | 0.2 |  0.6 |  0.8 |  1.6 |  2.4 |
+| 4.   | Generell tidsplassering         | 1.6 |  1.4 |  1.8 |  2.6 |  2.6 |
+| 5.   | Detaljert tidsplassering        | 1.0 |  0.2 |  0.8 |  1.8 |  2.2 |
+| 6.   | Dynamisk forløp                 | 1.0 |  0.8 |  2.2 |  2.8 |  2.8 |
+| 7.   | Artikulasjon                    | 0.2 |  0.2 |  0.8 |  1.8 |  2.4 |
 
- ![Figur 41: Novisen (venstre), personen med noe musikalsk trening (midt) og eksperten (høyre) viste alle relativt god romlig og tidsmessig samsvar i mimingen av en oppadgående skalabevegelse. Begynnelsen av sekvensen vises nederst, bevegelseskurven i midten, og avslutningsposisjonen øverst.](images/41-3lift.jpg)
+![Figur 41: Novisen (venstre), personen med noe musikalsk trening (midt) og eksperten (høyre) viste alle relativt god romlig og tidsmessig samsvar i mimingen av en oppadgående skalabevegelse. Begynnelsen av sekvensen vises nederst, bevegelseskurven i midten, og avslutningsposisjonen øverst.](images/41-3lift.jpg)
 
 En tydelig forskjell mellom deltagerne gjaldt responstid. Figur 42 viser hvordan eksperten raskt gjenkjenner et stort registersprang, mens de to andre bruker lengre tid før de tilpasser bevegelsene etter lyden de hører.
 

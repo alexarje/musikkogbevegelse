@@ -46,9 +46,9 @@ Som disse eksemplene viser, er det ikke lett å finne et system for å klassifis
 
 De lydproduserende handlingene som ble beskrevet i forrige avsnitt, er nødvendige for å skape lyd, men dette ville ikke vært mulig uten forskjellige typer av *støttebevegelser*. Støttebevegelsene er ikke direkte involvert i lydproduksjonen, men er allikevel viktige for det klingende resultatet. Når man spiller piano, er det fingrene som utfører de lydproduserende handlingene (indirekte), men bevegelsen starter i overkroppen og videreføres gjennom armen til hånden og til fingrene. Vi kan her skille mellom tre forskjellige hovedtyper av støttebevegelser:
 
-- *hjelpebevegelser*
-- *fraseringsbevegelser*
-- *tiltrekningsbevegelser*
+* *hjelpebevegelser*
+* *fraseringsbevegelser*
+* *tiltrekningsbevegelser*
 
 Disse kalles bevegelser istedenfor handlinger, siden de ikke er målrettede på samme måte som de lydproduserende handlingene.
 
