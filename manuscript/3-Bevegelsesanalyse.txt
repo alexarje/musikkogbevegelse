@@ -122,8 +122,8 @@ Begrepet *kraft* ble utviklet i boken *Effort* av Laban og Lawrence (1947), og b
 
 * rom: direkte--indirekte
 * tid: brå--utholdt
-* tyngde: kraftig–lett
-* flyt: bundet–fri
+* tyngde: kraftig--lett
+* flyt: bundet--fri
 
 *Rom* beskriver hvordan man beveger seg gjennom det fysiske rommet man befinner seg i, og hvordan man forholder seg til *kinesfæren*, det maksimale området vi kan rekke hvis vi strekker oss i alle retninger fra en bestemt posisjon (det som ble kalt kroppsrom i kapittel 2).
 
@@ -149,8 +149,8 @@ Kapitlet startet med en gjennomgang av forskjellige systemer som måler bevegels
 
 I den siste delen av kapitlet så vi på kvalitative observasjonsteknikker, og da særlig *Labanotasjon* og *Labans bevegelsesanalyse*. Dette er metoder som har blitt utviklet for å beskrive bevegelser med utgangspunkt i det menneskelige øye og den menneskelige erfaringen. I noen sammenhenger vil dette være bedre enn de beste bevegelsessporingssystemene. Imidlertid vil disse metodene være mer avhengig av at det er en kvalifisert person som utfører nedtegnelsen, og presisjonsnivået i en slik analyse vil kunne variere mye.
 
-T> ### Les mer
-T>
-T> - Historien til bevegelsessporingssystemer: Roetenberg (2006)
-T> - Labans bevegelsesanalyse: Newlove og Dalby (2004)
-T> - Labanotasjon: Guest (2004)
+### Les mer
+
+T> * Historien til bevegelsessporingssystemer: Roetenberg (2006)
+T> * Labans bevegelsesanalyse: Newlove og Dalby (2004)
+T> * Labanotasjon: Guest (2004)

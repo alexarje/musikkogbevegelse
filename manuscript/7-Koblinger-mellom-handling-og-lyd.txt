@@ -99,6 +99,6 @@ I dette kapitlet har vi sett på forskjellen mellom *naturlige* og *kunstige* ha
 
 ### Les mer
 
-T> - Lydkildepersepsjon: Giordano (2005)
-T> - Koblinger mellom handling og lyd: Godøy og Leman (2009)
-T> - Økologisk lytting: Clarke (2005)
+T> * Lydkildepersepsjon: Giordano (2005)
+T> * Koblinger mellom handling og lyd: Godøy og Leman (2009)
+T> * Økologisk lytting: Clarke (2005)

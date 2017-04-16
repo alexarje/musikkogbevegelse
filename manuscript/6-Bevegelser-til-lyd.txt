@@ -9,9 +9,9 @@ På T-banen ser man folk som sitter og nikker på hodet eller rister på foten m
 I det forrige kapitlet så vi på forskjellige typer bevegelser hos utøvere, og hvilken funksjon slike bevegelser kan ha for vår oppfatning av musikken. En annen måte å observere musikkutfoldelse på kan være å studere bevegelsene til den som opplever musikken. Dette er et tema som i liten grad har vært systematisk utforsket, så det er relativt lite forskningsmateriale å hente kunnskap fra. I dette kapitlet skal vi derfor se nærmere på noen observasjonsstudier vi har utført ved Universitetet i Oslo de siste årene. Gjennom arbeidet med lytteres spontane bevegelser til musikk har vi identifisert flere forskjellige bevegelsestyper:
 
 - *Mimebevegelser* som er beregnet på å mime bevegelsene hos utøveren, for eksempel luftinstrumentspilling.
--*Lydakkompagnerende bevegelser* som følger bestemte kvaliteter i lyden, men ikke så direkte som mimebevegelser.
--*Lydskisseringsbevegelser* som mer generelt følger lyden, for eksempel å følge konturene i en melodi med hånden.
--*Dansebevegelser* som ofte er knyttet til rytmiske kvaliteter i den musikalske lyden.
+- *Lydakkompagnerende bevegelser* som følger bestemte kvaliteter i lyden, men ikke så direkte som mimebevegelser.
+- *Lydskisseringsbevegelser* som mer generelt følger lyden, for eksempel å følge konturene i en melodi med hånden.
+- *Dansebevegelser* som ofte er knyttet til rytmiske kvaliteter i den musikalske lyden.
 
 I de følgende avsnittene skal vi se nærmere på disse bevegelsestypene og hvordan det er mulig å utvikle teorier og metoder for å studere slike bevegelser.
 
@@ -159,6 +159,6 @@ Disse begrensede studiene viser at alle, uavhengig av musikalsk trening og erfar
 
 ### Les mer
 
-T> - Luftinstrumentspilling: Godøy et al. (2006b)
-T> - Korrespondanser mellom musikk og bevegelse: Haga (2008)
-T> - Bevegelse til musikk: Styns et al. (2007)
+T> * Luftinstrumentspilling: Godøy et al. (2006b)
+T> * Korrespondanser mellom musikk og bevegelse: Haga (2008)
+T> * Bevegelse til musikk: Styns et al. (2007)

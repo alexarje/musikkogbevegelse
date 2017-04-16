@@ -28,10 +28,10 @@ De forskjellige bevegelsessporingssystemene introdusert i kapittel 3 kan ta opp 
 
 Det har ingen hensikt å gå inn på spesifikk programvare her, siden utviklingen går så raskt at det ikke er mulig å gi en oppdatert oversikt. Det finnes imidlertid mange forskjellige programvarepakker tilgjengelig som muliggjør analyse fra et videomateriale. Generelt kan vi dele inn den programvaren som finnes i følgende kategorier:
 
-- *Overvåking*: Det finnes en rekke programmer som tar opp video og gjør enkel kvantitativ videoanalyse basert på bevegelse. Slik programvare brukes til overvåking av for eksempel trafikkflyt og butikker.
--*Sport og rehabilitering*: Her er målet å finne måter å visualisere bevegelsen på slik at man kan se på endringer over tid og arbeide mot optimalisering av bevegelsene.
--*Annotasjon*: Dette er ofte beregnet på kvalitative observasjonsstudier, gjerne av atferd hos barn og voksne. Slike programmer gir muligheten til å spille av en videofil og skrive inn tekst langs en tidslinje.
--*Programmering*: Dette er åpne programløsninger som gjør det mulig å sette sammen forskjellige moduler for å skape et eget analyseprogram.
+* *Overvåking*: Det finnes en rekke programmer som tar opp video og gjør enkel kvantitativ videoanalyse basert på bevegelse. Slik programvare brukes til overvåking av for eksempel trafikkflyt og butikker.
+* *Sport og rehabilitering*: Her er målet å finne måter å visualisere bevegelsen på slik at man kan se på endringer over tid og arbeide mot optimalisering av bevegelsene.
+* *Annotasjon*: Dette er ofte beregnet på kvalitative observasjonsstudier, gjerne av atferd hos barn og voksne. Slike programmer gir muligheten til å spille av en videofil og skrive inn tekst langs en tidslinje.
+* *Programmering*: Dette er åpne programløsninger som gjør det mulig å sette sammen forskjellige moduler for å skape et eget analyseprogram.
 
 De to første kategoriene fokuserer hovedsakelig på kvantitative analyser, der målet er å få ut en tallbasert representasjon for videre behandling. Annotasjonsprogramvaren er ofte beregnet på kvalitative studier der kommentarer skrives ned mens man observerer en video. Den siste kategorien er den som er mest fleksibel, men den krever også at brukeren kjenner til noe programmering, for eksempel utviklingsverktøyene Matlab, Max/MSP/Jitter eller EyesWeb.
 
@@ -223,12 +223,12 @@ Fra det originale videobildet kan man finne *kroppsmengde*, *kroppsareal* og *kr
 
 Til sammen sier disse seks målene noe om størrelse og utstrekning til både kropp og bevegelse:
 
--   Bevegelsesmengde
--   Bevegelsesareal
--   Bevegelsessentrum
--   Kroppsmengde
--   Kroppsareal
--   Kroppssentrum
+* Bevegelsesmengde
+* Bevegelsesareal
+* Bevegelsessentrum
+* Kroppsmengde
+* Kroppsareal
+* Kroppssentrum
 
 Videre arbeid med et slikt datamateriale forutsetter erfaring med bruk av regneark eller statistikkprogramvare. Da vil man kunne plotte tallene som grafer, og beregne ulike statistiske mål: gjennomsnitt, standardavvik, osv. Det er ofte vanlig å kombinere de ulike målene. Ett eksempel er å se på forholdet mellom kroppsareal og bevegelsesareal. Da kan man finne hvor i bildet personen står, og hvor i bildet bevegelsen skjer.
 

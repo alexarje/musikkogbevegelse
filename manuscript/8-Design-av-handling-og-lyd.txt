@@ -88,6 +88,6 @@ I dette kapitlet har vi sett på hvordan handling–lyd-koblinger brukes aktivt 
 
 ### Les mer
 
-T> - Lydinteraksjonsdesign: Rocchesso og Fontana (2003)
-T> - Nye digitale instrumenter: Miranda og Wanderley (2006)
-T> - Hjemmelagede elektroniske instrumenter: Collins (2006)
+T> * Lydinteraksjonsdesign: Rocchesso og Fontana (2003)
+T> * Nye digitale instrumenter: Miranda og Wanderley (2006)
+T> * Hjemmelagede elektroniske instrumenter: Collins (2006)

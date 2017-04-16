@@ -12,10 +12,10 @@ Bevegelsene til dansere er gjerne *lydakkompagnerende* ettersom de følger etter
 
 For å forstå mer av de funksjonelle sidene av musikkrelaterte bevegelser kan vi ta utgangspunkt i fire kategorier, en kombinasjon av kategoriene presentert av Sylvie Gibet (1987), Claude Cadoz (1988), François Delalande (1988) og Marcelo M. Wanderley (2004):
 
-- *Lydproduserende handlinger* er de handlingene som produserer lyd. Disse kan igjen deles inn i to kategorier: *eksitasjon* og *modifikasjon*.
--*Støttebevegelser* hjelper de lydproduserende handlingene på forskjellige måter. Disse bevegelsene kan videre deles inn i *hjelpebevegelser*, *fraseringsbevegelser* og *tiltrekningsbevegelser*.
--*Lydakkompagnerende bevegelser* er ikke involvert i lydproduksjon, men følger derimot kvaliteter i lyden. Disse kan være *lydskisserende*, ved at de følger etter konturer i lydobjekter, eller de kan *mime* lydproduserende handlinger.
--*Kommunikative bevegelser* er beregnet på mellommenneskelig kommunikasjon og kan være *interne* for en utøver, eller ses i relasjonene *utøver–utøver* eller *utøver–sanser*.
+* *Lydproduserende handlinger* er de handlingene som produserer lyd. Disse kan igjen deles inn i to kategorier: *eksitasjon* og *modifikasjon*.
+* *Støttebevegelser* hjelper de lydproduserende handlingene på forskjellige måter. Disse bevegelsene kan videre deles inn i *hjelpebevegelser*, *fraseringsbevegelser* og *tiltrekningsbevegelser*.
+* *Lydakkompagnerende bevegelser* er ikke involvert i lydproduksjon, men følger derimot kvaliteter i lyden. Disse kan være *lydskisserende*, ved at de følger etter konturer i lydobjekter, eller de kan *mime* lydproduserende handlinger.
+* *Kommunikative bevegelser* er beregnet på mellommenneskelig kommunikasjon og kan være *interne* for en utøver, eller ses i relasjonene *utøver–utøver* eller *utøver–sanser*.
 
 Figur 39 viser forskjellige typer musikkrelaterte bevegelser i pianospilling. De forskjellige kategoriene utelukker ikke hverandre; mange bevegelser kan ha flere funksjoner på samme tid. Når en pianist slår an den siste tonen i et stykke etterfulgt av et teatralsk løft, vil handlingen ha elementer av lydproduserende, støttende, akkompagnerende og kommunikative bevegelser på samme tid. Et slikt funksjonelt mangfold er illustrert i et *dimensjonsrom* i figur 40. Dimensjonsrom brukes ofte for å analysere interaktive systemer (Graham et al. 2000) og har blitt brukt for å analysere funksjonalitet i digitale musikkinstrumenter (Birnbaum et al. 2005). Her brukes et dimensjonsrom for å visualisere hvordan bevegelsene til en musiker og en danser dekker forskjellige musikkrelaterte bevegelsesfunksjoner.
 
@@ -31,8 +31,8 @@ I kapittel 2 ble det vist tre hovedtyper eksitasjonshandlinger: *impulsive*, *ut
 
 Modifikasjonshandlinger er den andre underkategorien av lydproduserende handlinger. Det er handlinger som ikke produserer lyd i seg selv, men som modifiserer lyden i instrumentet. Når man spiller gitar, utfører den høyre hånden lydproduserende handlinger ved å slå an strengen, mens den venstre hånden utfører lydmodifiserende handlinger ved å velge hvilke bånd strengen skal klinge fra. Cadoz (1988) foreslår to underkategorier av lydmodifiserende handlinger:
 
-- *Parametriske*: Handlinger som forandrer en parameter kontinuerlig, for eksempel buetrykk i fiolinspilling.
--*Strukturelle*: Handlinger som modifiserer eller forandrer strukturen til et objekt, for eksempel åpen eller lukket klaff på et blåseinstrument.
+* *Parametriske*: Handlinger som forandrer en parameter kontinuerlig, for eksempel buetrykk i fiolinspilling.
+* *Strukturelle*: Handlinger som modifiserer eller forandrer strukturen til et objekt, for eksempel åpen eller lukket klaff på et blåseinstrument.
 
 De fleste musikkinstrumenter spilles med både eksitasjons- og modifikasjonshandlinger. I noen instrumenter er de to handlingstypene tydelig separert, som i strykeinstrumenter der de to hendene spiller helt forskjellige roller: Venstrehånden styrer hovedsakelig tonehøyde, mens høyrehånden fører buen som eksiterer strengen og styrer dynamikk og klang. Blåseinstrumenter har også en arbeidsfordeling mellom forskjellige kroppsdeler: Eksitasjonen skjer hovedsakelig fra munn og lepper, mens modifikasjonshandlinger utføres av fingrene.
 
@@ -47,8 +47,8 @@ Som disse eksemplene viser, er det ikke lett å finne et system for å klassifis
 De lydproduserende handlingene som ble beskrevet i forrige avsnitt, er nødvendige for å skape lyd, men dette ville ikke vært mulig uten forskjellige typer av *støttebevegelser*. Støttebevegelsene er ikke direkte involvert i lydproduksjonen, men er allikevel viktige for det klingende resultatet. Når man spiller piano, er det fingrene som utfører de lydproduserende handlingene (indirekte), men bevegelsen starter i overkroppen og videreføres gjennom armen til hånden og til fingrene. Vi kan her skille mellom tre forskjellige hovedtyper av støttebevegelser:
 
 - *hjelpebevegelser*
--*fraseringsbevegelser*
--*tiltrekningsbevegelser*
+- *fraseringsbevegelser*
+- *tiltrekningsbevegelser*
 
 Disse kalles bevegelser istedenfor handlinger, siden de ikke er målrettede på samme måte som de lydproduserende handlingene.
 
@@ -88,6 +88,6 @@ I dette kapitlet er det beskrevet forskjellige typer funksjonelle bevegelser hos
 
 ### Les mer
 
-T> - Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
-T> - Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
-T> - Analyse av musikkrelaterte bevegelser: Gritten og King (2006)
+T> * Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
+T> * Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
+T> * Analyse av musikkrelaterte bevegelser: Gritten og King (2006)
