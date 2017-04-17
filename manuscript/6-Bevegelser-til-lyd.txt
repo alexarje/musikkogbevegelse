@@ -49,8 +49,8 @@ I analysen av materialet bestemte vi oss for å vurdere hvert av de ovennevnte s
 
 Gjennomsnittsresultatene fra evalueringen av utøverne er oppsummert i tabell 1. Ikke overraskende er det tett samsvar mellom graden av musikalsk skolering og poengnivået som ble oppnådd i studien. Mer overraskende fant vi at deltagerne med minst musikalsk skolering gjorde det relativt godt når det kom til samsvar mellom musikk og bevegelse på et overordnet nivå. Dette er også en generell oppfatning vi sitter igjen med etter å ha sett hundrevis av deltagere spille luftgitar i forskjellige sammenhenger. Generell oppfattelse av tonehøyde og distribusjon av bevegelser i tid og rom ser ut til å være godt innarbeidet hos de fleste. Eksempler på dette kan ses i figur 41 ([video](https://youtu.be/24qPwOpo2xA)), der deltager A, B og E spilte en oppadgående bevegelse med et løft på slutten i et musikalsk utdrag av en oppadgående skala.
 
-**Tabell 1: Gjennomsnittlig samsvar hos de fem utøverne (A–E) i luftpianostudien. Karakterskalaen går fra 0–3, der 3 er best.**
 
+{title="Tabell 1: Gjennomsnittlig samsvar hos de fem utøverne (A–E) i luftpianostudien. Karakterskalaen går fra 0–3, der 3 er best."}
 |      | Egenskap                        | A   |  B   |  C   |  D   |  E |
 |  --- | ------------------------------- | --: | --:  | --: | --: | ---: |
 | 1.   | Generell aktivitet              | 1.4 |  1.8 |  2.6 |  2.6 |  3 | |
@@ -87,8 +87,8 @@ Som vi så i kapittel 3, er Labans bevegelsesanalyse en kvalitativ metode som eg
 
 Det har blitt gjort flere forsøk på å definere paralleller mellom musikk og bevegelse, og ett av disse systemene er Hodgins (1992) modell for *koreomusikalsk* analyse. De koreomusikalske parallellene ble utviklet for å analysere koreografert dans, men vi har sett at modellen også kan være nyttig når man skal studere fridans til musikk. Hodgin foreslår i sin modell et sett paralleller mellom egenskaper i dans og musikk: *rytmikk*, *dynamikk*, *tekstur*, *struktur*, *kvaliteter* og *mimetikk* (se Tabell 2).
 
-**Tabell 2: Hodgins (1992) koreomusikalske paralleller av sammenhenger mellom egenskaper i dansebevegelser og musikalsk lyd.**
 
+{title="Tabell 2: Hodgins (1992) koreomusikalske paralleller av sammenhenger mellom egenskaper i dansebevegelser og musikalsk lyd."}
 |             | Dans                  | Musikk |
 |  ---------- | --------------------- | -------------------------------- |
 |  Rytmikk    | Bevegelseshastighet   | Aksentuering, takt, handlingstetthet |
