@@ -82,7 +82,7 @@ latex_elements = {
     'papersize': 'a4paper',
     # Minimal preamble: set main font and add KOMA options. We load scrhack
     # and scrlayer-scrpage to help KOMA compatibility and avoid some warnings.
-    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\\n\\usepackage{scrhack}\\n',
+    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\n\\usepackage{scrhack}\n',
 }
 
 # Documents to build (source start file, target name, title, author, documentclass)
