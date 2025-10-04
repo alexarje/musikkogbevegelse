@@ -4,6 +4,8 @@ title: Musikk og bevegelse
 
 # Musikk og bevegelse
 
+![Musikk og bevegelse](images/musikkogbevegelse_forside_crop.jpg)
+
 ```{toctree}
 0-preludium
 1-Musikk-og-bevegelse
