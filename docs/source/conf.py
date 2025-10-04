@@ -7,6 +7,10 @@ sys.path.insert(0, os.path.abspath('.'))
 project = 'Musikk og bevegelse'
 author = 'Alexander Refsum Jensenius'
 
+# Set explicit HTML titles so theme doesn't append 'documentation'
+html_title = project
+html_short_title = project
+
 extensions = [
     'myst_parser',
 ]
