@@ -4,9 +4,7 @@ Denne boken ble skrevet med utgangspunkt i min doktorgradsavhandling ([Action--S
 
 Mange ting har skjedd siden 2009. Først fusjonerte UniPub inn i Akademika Forlag i 2012, som deretter ble overtatt av Fagbokforlaget Vigmostad & Bjørke i 2014. Boken min er nå [ikke lenger i salg](https://www.fagbokforlaget.no/Musikk-og-bevegelse/I9788274773691) og støttesiden [http://www.musikkogbevegelse.no/](www.musikkogbevegelse.no/) er ikke tilgjengelig.
 
-En forfatters mål er å bli lest, og jeg har derfor valgt å gjøre boken fritt tilgjengelig via LeanPub. Valget falt på dette "forlaget" fordi de åpner for en veldig enkel publikasjonsprosess. Tanken er også at boken nå endelig kan fungere som en skikkelig e-bok, med støttemateriale bygget inn. Jeg vil også gjøre andre småoppdateringer av innholdet for å sikre at den fremdeles er aktuell.
-
-| |
+En forfatters mål er å bli lest, og jeg har derfor valgt å gjøre boken fritt tilgjengelig. Tanken er også at boken nå endelig kan fungere som en skikkelig e-bok, med støttemateriale bygget inn. Jeg vil også gjøre andre småoppdateringer av innholdet for å sikre at den fremdeles er aktuell.
 
 ARJ, Oslo, 2017
 
@@ -24,7 +22,5 @@ Utgangspunktet i denne boken er å studere musikk som *fenomen* eller mer spesif
 De første kapitlene tar for seg grunnleggende teori knyttet til kropp og bevegelse og en kroppslig musikkognisjon. Deretter introduseres terminologi for å snakke om kropp og bevegelse generelt, etterfulgt av en oversikt over forskjellige metoder for analyse og visualisering av bevegelser. Etter disse generelle kapitlene blir forskjellige typer musikkrelaterte bevegelser beskrevet, både hos utøvere og hos de som opplever musikken. De siste kapitlene tar for seg hvordan bevegelser er knyttet til lyd, hvilken rolle de spiller for vår opplevelse av musikken som et multimodalt fenomen, og hvordan kropp og bevegelse kan integreres i ny musikkteknologi.
 
 Jeg vil gjerne rette en stor takk til Rolf Inge Godøy (Universitetet i Oslo) og Marcelo M. Wanderley (McGill University) som veiledet mitt doktorgradsprosjekt. Jeg vil også takke Norges forskningsråd for å ha støttet *Musical Gestures*-prosjektet der hovedvekten av ideene som presenteres i denne boken, ble utarbeidet.
-
-| |
 
 ARJ, Oslo, 2009
