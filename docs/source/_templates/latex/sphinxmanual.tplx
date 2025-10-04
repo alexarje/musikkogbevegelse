@@ -16,6 +16,24 @@
 \usepackage{scrlayer-scrpage}
 \clearpairofpagestyles
 % Basic header/footer (Sphinx will fill titles via \leftmark/\rightmark)
+% Custom LaTeX template for Sphinx: use KOMA-Script scrbook and avoid
+% loading packages that conflict with it (titlesec, fancyhdr, fncychap).
+% This file is intentionally conservative: it swaps the documentclass and
+% provides a minimal preamble compatible with Sphinx's generated LaTeX.
+%%
+% This template is based on Sphinx's default manual template but adapted
+% for scrbook. Keep changes minimal to preserve cross-references and Sphinx
+% generated macros.
+
+%% Prevent Sphinx from inserting its own \documentclass{book}
+% The template markers below will be substituted by Sphinx when building.
+\def\sphinxdocclass{scrbook}
+\documentclass[a4paper,10pt,english,open=right]{scrbook}
+
+% Load KOMA-friendly page style and fixes
+\usepackage{scrlayer-scrpage}
+\clearpairofpagestyles
+% Basic header/footer (Sphinx will fill titles via \leftmark/\rightmark)
 \ohead{}\ihead{}
 
 % Avoid loading titlesec, fancyhdr, fncychap which Sphinx's style files
@@ -34,7 +52,7 @@
 % the rest of the document template as Sphinx expects.
 
 % Title block (Sphinx will set the macros used here)
-\title{\sphinxsetup{\sphinxmaketitle}}
+	itle{\sphinxsetup{\sphinxmaketitle}}
 \begin{document}
 \pagestyle{empty}
 \sphinxmaketitle

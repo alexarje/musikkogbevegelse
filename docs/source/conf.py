@@ -80,9 +80,25 @@ latex_engine = 'xelatex'
 latex_elements = {
     # The paper size ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
-    # Minimal preamble: set main font and add KOMA options. We load scrhack
-    # and scrlayer-scrpage to help KOMA compatibility and avoid some warnings.
-    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\n\\usepackage{scrhack}\n',
+    # Preamble: set main font, load small typographic helpers and KOMA options.
+    # Use microtype and emergencystretch to reduce overfull hboxes. Keep this
+    # conservative so it works whether Sphinx emits 'book' or 'scrbook'.
+    'preamble': r'''
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\usepackage{scrhack}
+\usepackage{microtype}
+% Allow a bit more flexibility for line breaking
+\emergencystretch=1em
+% Reduce aggressive hyphenation penalties
+\hyphenpenalty=500
+\exhyphenpenalty=500
+% Set KOMA fonts for headings (harmless if not using scrbook)
+\setkomafont{chapter}{\Huge\bfseries}
+\setkomafont{section}{\Large\bfseries}
+\setkomafont{subsection}{\large\bfseries}
+\KOMAoptions{chapterprefix=true,open=right,parskip=half}
+''',
 }
 
 # Documents to build (source start file, target name, title, author, documentclass)
