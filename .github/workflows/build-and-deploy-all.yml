@@ -24,13 +24,12 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Install system dependencies (TeX + extras)
+    - name: Install system dependencies (TeX Live full)
       run: |
         sudo apt-get update
-        # Install a working TeX toolchain for PDF builds (may take a few minutes)
-        sudo apt-get install -y --no-install-recommends \
-          texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended \
-          texlive-fonts-extra texlive-xetex latexmk texlive-lang-english texlive-xindy makeindex
+        # Installing texlive-full ensures xindy/makeindex and all LaTeX packages are present.
+        # NOTE: this is large and can add several minutes to the workflow runtime.
+        sudo apt-get install -y texlive-full
 
     - name: Install Python deps
       run: |
