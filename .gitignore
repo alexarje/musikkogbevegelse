@@ -1,0 +1,14 @@
+.venv/
+docs/build/
+__pycache__/
+*.bak
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.idx
+*.ind
+*.toc
+*.out
+*.ist
+*.xdy
