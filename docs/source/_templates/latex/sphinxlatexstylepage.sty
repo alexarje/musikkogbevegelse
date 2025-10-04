@@ -1,0 +1,27 @@
+%% KOMA-friendly page styling for Sphinx LaTeX output
+\ProvidesPackage{sphinxlatexstylepage}[2025/10/04 KOMA-friendly page styling]
+
+% Do not load parskip here; prefer KOMA option parskip via \KOMAoptions
+% Use scrlayer-scrpage instead of fancyhdr for KOMA compatibility
+\RequirePackage{scrlayer-scrpage}
+\clearpairofpagestyles
+\ohead{}
+\ihead{}
+\setkomafont{pageheadfoot}{\sffamily\small}
+
+% Provide a 'normal' pagestyle compatible with Sphinx expectations
+\newcommand{\py@HeaderFamily}{\sffamily}
+\newcommand{\sphinxheadercomma}{, }
+\newcommand{\py@release}{}
+
+\DeclareNewLayer[foreground]{sphinx.headerlayer}
+\AddLayersAtBeginDocument{sphinx.headerlayer}
+
+% Minimal 'normal' pagestyle mapping for compatibility
+\newcommand{\psnormal}{%
+  \clearpairofpagestyles
+  \ofoot*{\pagemark}% page number outer
+}
+\psnormal
+
+\endinput

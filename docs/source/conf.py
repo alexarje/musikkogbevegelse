@@ -80,10 +80,9 @@ latex_engine = 'xelatex'
 latex_elements = {
     # The paper size ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
-    # Minimal preamble: set main font and add KOMA options. Avoid loading
-    # scrlayer-scrpage here since Sphinx loads packages (titlesec) that may
-    # conflict; we'll perform a controlled class switch in the generated .tex.
-    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\n',
+    # Minimal preamble: set main font and add KOMA options. We load scrhack
+    # and scrlayer-scrpage to help KOMA compatibility and avoid some warnings.
+    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\n\\usepackage{scrhack}\\usepackage{scrlayer-scrpage}\n',
 }
 
 # Documents to build (source start file, target name, title, author, documentclass)
@@ -102,4 +101,5 @@ latex_documents = [
 # swap to scrbook, these options will take effect. We avoid loading packages
 # that conflict with sphinx defaults (e.g., titlesec) in this preamble.
 latex_elements.setdefault('preamble', '')
-latex_elements['preamble'] += '\n\\KOMAoptions{chapterprefix=true,open=right}\n'
+# Set KOMA options (chapter prefix, open on right, and use parskip)
+latex_elements['preamble'] += '\n\\KOMAoptions{chapterprefix=true,open=right,parskip=half}\n'

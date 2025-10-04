@@ -1,0 +1,18 @@
+%% KOMA-friendly headings for Sphinx LaTeX output
+\ProvidesPackage{sphinxlatexstyleheadings}[2025/10/04 KOMA-friendly headings]
+
+% Avoid loading titlesec; use KOMA features for section formatting
+% Provide reasonable defaults that Sphinx can work with
+\newcommand{\py@TitleColor}{}
+\newcommand{\py@HeaderFamily}{\sffamily}
+
+% Use KOMA's section font commands instead of titlesec
+\setkomafont{section}{\Large\py@HeaderFamily}
+\setkomafont{subsection}{\large\py@HeaderFamily}
+\setkomafont{subsubsection}{\normalsize\py@HeaderFamily}
+
+% Provide minimal chapter heading fallback if fncychap is used elsewhere
+% but prefer KOMA's chapter formatting
+\providecommand{\DOTI}[1]{\KOMAlikeChapter{#1}}
+
+\endinput
