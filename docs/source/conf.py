@@ -14,13 +14,18 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = ['_build']
 
-# Use Read the Docs theme if available
+# Prefer the sphinx-book-theme if available, otherwise fall back to RTD or alabaster
 try:
-    import sphinx_rtd_theme
-    html_theme = 'sphinx_rtd_theme'
-    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    import sphinx_book_theme
+    html_theme = 'sphinx_book_theme'
+    html_theme_path = [sphinx_book_theme.get_html_theme_path()]
 except Exception:
-    html_theme = 'alabaster'
+    try:
+        import sphinx_rtd_theme
+        html_theme = 'sphinx_rtd_theme'
+        html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+    except Exception:
+        html_theme = 'alabaster'
 
 html_static_path = ['_static']
 
