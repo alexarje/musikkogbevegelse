@@ -33,9 +33,46 @@ except Exception:
 
 html_static_path = ['_static']
 
+# If a LaTeX-generated PDF exists (from a prior latexpdf build), copy it
+# into the HTML output's _static directory so we can link to the LaTeX PDF
+# from the HTML theme (CI should build latexpdf before html so the PDF
+# is available).
+def _copy_latex_pdf_to_static(app):
+    import shutil
+    import os
+
+    # expected PDF path (relative to the repository root)
+    # app.confdir is docs/source; repo root is two levels up
+    repo_root = os.path.abspath(os.path.join(app.confdir, '..', '..'))
+    pdf_src = os.path.join(repo_root, 'docs', 'build', 'latex', 'MusikkOgBevegelse.pdf')
+    if os.path.exists(pdf_src):
+        dest_static = os.path.join(app.outdir, '_static')
+        os.makedirs(dest_static, exist_ok=True)
+        try:
+            shutil.copy2(pdf_src, os.path.join(dest_static, 'MusikkOgBevegelse.pdf'))
+            app.info('[conf.py] copied LaTeX PDF into HTML _static')
+        except Exception:
+            # best-effort; don't raise build errors for copy failures
+            pass
+
+def setup(app):
+    # run early in the build so the file is present when pages are written
+    app.connect('builder-inited', _copy_latex_pdf_to_static)
+
+
 # MyST options
 myst_enable_extensions = [
     'colon_fence',
+]
+
+# Theme options: add an explicit download link to the LaTeX-generated PDF
+html_theme_options = {
+    'extra_navbar': '<a class="btn btn-primary" href="_static/MusikkOgBevegelse.pdf" target="_blank">Download PDF</a>'
+}
+
+# Include small JS that injects a LaTeX-PDF download link into the theme's download dropdown
+html_js_files = [
+    '_static/download_pdf.js',
 ]
 
 # -- Options for LaTeX output ---------------------------------------------
