@@ -63,10 +63,21 @@ jobs:
         publish_dir: docs/build/html
         publish_branch: gh-pages
         keep_history: false
+    - name: Create tag for release
+      run: |
+        # Configure git user and create a lightweight tag for this run
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        TAG="v${{ github.run_number }}"
+        echo "Creating tag $TAG for release"
+        git tag -a "$TAG" -m "CI release $TAG from $GITHUB_SHA" $GITHUB_SHA
+        git push origin "$TAG"
 
     - name: Create GitHub Release with PDF
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: "v${{ github.run_number }}"
+        name: "MusikkOgBevegelse PDF (build ${{ github.run_number }})"
         files: docs/build/latex/MusikkOgBevegelse.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
