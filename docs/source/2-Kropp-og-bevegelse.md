@@ -1,6 +1,6 @@
 # 2. Kropp og bevegelse
 
-A> I dette kapitlet skal vi se nærmere på en del sentrale begreper for å forstå mer om kroppsbevegelser, blant annet kropp, rom, bevegelse, handling og gest.
+*I dette kapitlet skal vi se nærmere på en del sentrale begreper for å forstå mer om kroppsbevegelser, blant annet kropp, rom, bevegelse, handling og gest.*
 
 ## Kropp
 
@@ -130,6 +130,6 @@ Kapitlet begynte med å presentere hvordan vår opplevelse av forskjellige rom h
 
 ### Les mer
 
-T> * kropp og bevegelse: Engelsrud (2006)
-T> * bevegelsesvitenskap: Abernethy et al. (2005)
-T> * gester: McNeill (2005)
+* kropp og bevegelse: Engelsrud (2006)
+* bevegelsesvitenskap: Abernethy et al. (2005)
+* gester: McNeill (2005)

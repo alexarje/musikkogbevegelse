@@ -1,6 +1,6 @@
 # 7. Koblinger mellom handling og lyd
 
-A> I dette kapitlet skal vi se nærmere på forskjellige typer koblinger mellom handling og lyd. Det blir beskrevet hvordan slike koblinger er bygget opp og hvordan de påvirker måten vi opplever musikk på.
+*I dette kapitlet skal vi se nærmere på forskjellige typer koblinger mellom handling og lyd. Det blir beskrevet hvordan slike koblinger er bygget opp og hvordan de påvirker måten vi opplever musikk på.*
 
 ## Et glass som faller
 
@@ -99,6 +99,6 @@ I dette kapitlet har vi sett på forskjellen mellom *naturlige* og *kunstige* ha
 
 ### Les mer
 
-T> * Lydkildepersepsjon: Giordano (2005)
-T> * Koblinger mellom handling og lyd: Godøy og Leman (2009)
-T> * Økologisk lytting: Clarke (2005)
+* Lydkildepersepsjon: Giordano (2005)
+* Koblinger mellom handling og lyd: Godøy og Leman (2009)
+* Økologisk lytting: Clarke (2005)

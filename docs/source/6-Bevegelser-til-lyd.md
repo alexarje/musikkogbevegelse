@@ -1,6 +1,6 @@
 # 6. Bevegelser til lyd
 
-A> I dette kapitlet skal vi se nærmere på forskjellige typer bevegelser til musikalsk lyd, eksemplifisert ved luftinstrumentspilling, fridansing og tegning til musikk.
+*I dette kapitlet skal vi se nærmere på forskjellige typer bevegelser til musikalsk lyd, eksemplifisert ved luftinstrumentspilling, fridansing og tegning til musikk.*
 
 ## Spontanbevegelser
 
@@ -176,6 +176,6 @@ Disse begrensede studiene viser at alle, uavhengig av musikalsk trening og erfar
 
 ### Les mer
 
-T> * Luftinstrumentspilling: Godøy et al. (2006b)
-T> * Korrespondanser mellom musikk og bevegelse: Haga (2008)
-T> * Bevegelse til musikk: Styns et al. (2007)
+* Luftinstrumentspilling: Godøy et al. (2006b)
+* Korrespondanser mellom musikk og bevegelse: Haga (2008)
+* Bevegelse til musikk: Styns et al. (2007)

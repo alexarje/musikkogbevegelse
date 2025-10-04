@@ -1,6 +1,6 @@
 # 4. Visualisering av bevegelse
 
-A> Dette kapitlet presenterer forskjellige former for visualisering av bevegelse, blant annet bevegelsesbilder, bevegelseshistoriebilder og bevegelseskurver.
+*Dette kapitlet presenterer forskjellige former for visualisering av bevegelse, blant annet bevegelsesbilder, bevegelseshistoriebilder og bevegelseskurver.*
 
 ## Fotografiske metoder
 
@@ -254,6 +254,6 @@ Dette kapitlet har vist forskjellige teknikker for å visualisere bevegelser. É
 
 ### Les mer
 
-T> - Visualisering av bevegelse: Muybridge (1955)
-T> - Bevegelseskurver: Jensenius (2007)
-T> - Interaktiv dans: Guedes (2005)
+- Visualisering av bevegelse: Muybridge (1955)
+- Bevegelseskurver: Jensenius (2007)
+- Interaktiv dans: Guedes (2005)

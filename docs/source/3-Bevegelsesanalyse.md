@@ -1,6 +1,6 @@
 # 3. Bevegelsesanalyse
 
-A> I dette kapitlet skal vi se nærmere på forskjellige kvalitative og kvantitative metoder for bevegelsesanalyse.
+*I dette kapitlet skal vi se nærmere på forskjellige kvalitative og kvantitative metoder for bevegelsesanalyse.*
 
 ## Deskriptiv analyse
 
@@ -151,6 +151,6 @@ I den siste delen av kapitlet så vi på kvalitative observasjonsteknikker, og d
 
 ### Les mer
 
-T> * Historien til bevegelsessporingssystemer: Roetenberg (2006)
-T> * Labans bevegelsesanalyse: Newlove og Dalby (2004)
-T> * Labanotasjon: Guest (2004)
+* Historien til bevegelsessporingssystemer: Roetenberg (2006)
+* Labans bevegelsesanalyse: Newlove og Dalby (2004)
+* Labanotasjon: Guest (2004)

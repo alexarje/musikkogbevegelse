@@ -1,6 +1,6 @@
 # 5. Bevegelser hos utøvere
 
-A> I dette kapitlet skal vi se på forskjellige typer musikkrelaterte kroppsbevegelser hos utøvere, og vi skal beskrive funksjonen de forskjellige handlingene og bevegelsene har i det musikalske forløpet.
+*I dette kapitlet skal vi se på forskjellige typer musikkrelaterte kroppsbevegelser hos utøvere, og vi skal beskrive funksjonen de forskjellige handlingene og bevegelsene har i det musikalske forløpet.*
 
 ## Musikkrelaterte bevegelser
 
@@ -88,6 +88,6 @@ I dette kapitlet er det beskrevet forskjellige typer funksjonelle bevegelser hos
 
 ### Les mer
 
-T> * Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
-T> * Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
-T> * Analyse av musikkrelaterte bevegelser: Gritten og King (2006)
+* Oversikt over musikkrelaterte bevegelser: Cadoz og Wanderley (2000)
+* Oversikt over musikkinstrumenter og spillestil: Kvifte (1989)
+* Analyse av musikkrelaterte bevegelser: Gritten og King (2006)

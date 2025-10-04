@@ -1,6 +1,6 @@
 # 8. Design av handling og lyd
 
-A> Kapitlet viser hvordan koblinger mellom handling og lyd brukes i musikk og film. Deretter omtales forskjellige strategier i design av kunstige koblinger, særlig i digitale musikkinstrumenter.
+*Kapitlet viser hvordan koblinger mellom handling og lyd brukes i musikk og film. Deretter omtales forskjellige strategier i design av kunstige koblinger, særlig i digitale musikkinstrumenter.*
 
 ## Handling–lyd-koblinger i musikk og film
 
@@ -88,6 +88,6 @@ I dette kapitlet har vi sett på hvordan handling–lyd-koblinger brukes aktivt 
 
 ### Les mer
 
-T> * Lydinteraksjonsdesign: Rocchesso og Fontana (2003)
-T> * Nye digitale instrumenter: Miranda og Wanderley (2006)
-T> * Hjemmelagede elektroniske instrumenter: Collins (2006)
+* Lydinteraksjonsdesign: Rocchesso og Fontana (2003)
+* Nye digitale instrumenter: Miranda og Wanderley (2006)
+* Hjemmelagede elektroniske instrumenter: Collins (2006)

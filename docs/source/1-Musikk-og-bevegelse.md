@@ -1,8 +1,6 @@
-{section: mainmatter}
-
 # 1. Musikk og bevegelse
 
-A> I dette kapitlet presenteres det teoretiske fundamentet for en kroppslig musikkognisjon basert på økologisk psykologi. En kroppslig musikkognisjon kan ses som et alternativ til forskjellige kognitive (og ikke-kognitive) musikkteorier der det fremholdes et skille mellom kropp og sinn.
+*I dette kapitlet presenteres det teoretiske fundamentet for en kroppslig musikkognisjon basert på økologisk psykologi. En kroppslig musikkognisjon kan ses som et alternativ til forskjellige kognitive (og ikke-kognitive) musikkteorier der det fremholdes et skille mellom kropp og sinn.*
 
 ## Fra noter til bevegelse
 
@@ -99,6 +97,6 @@ I dette kapitlet har vi sett på hvordan musikkforskningen har utviklet seg fra 
 
 ### Les mer
 
-T> * Kognitiv psykologi: Helstrup og Kaufmann (2000)
-T> * Økologisk musikkpsykologi: Clarke (2005)
-T> * Kroppslig musikkognisjon: Leman (2007)
+* Kognitiv psykologi: Helstrup og Kaufmann (2000)
+* Økologisk musikkpsykologi: Clarke (2005)
+* Kroppslig musikkognisjon: Leman (2007)
