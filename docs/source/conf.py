@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Musikk og bevegelse'
-author = 'ARJ'
+author = 'Alexander Refsum Jensenius'
 
 extensions = [
     'myst_parser',
