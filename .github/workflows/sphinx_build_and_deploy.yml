@@ -59,6 +59,14 @@ jobs:
         name: musikkogbevegelse-pdf
         path: docs/build/latex/MusikkOgBevegelse.pdf
 
+    - name: Add PDF to site downloads
+      if: always()
+      run: |
+        mkdir -p docs/build/html/_downloads
+        if [ -f docs/build/latex/MusikkOgBevegelse.pdf ]; then
+          cp docs/build/latex/MusikkOgBevegelse.pdf docs/build/html/_downloads/
+        fi
+
     - name: Deploy to GitHub Pages
       uses: actions/configure-pages@v4
 
