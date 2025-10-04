@@ -1,198 +1,193 @@
 # Bibliografi
 
-- Abernethy, Bruce et al. 2005. *The biophysical foundations of human movement*. Champagin, Illinois, Human Kinetics Publishers
-- Adde, Lars et al. 2009. Using computer-based video analysis in the study of fidgety movements. *Early Human Development*, doi:10.1016/j.earlhumdev.2009.05.003
-- Aksnes, Hallgjerd 2002. *Perspectives of Musical Meaning. A Study Based on Selected Works by Geirr Tveitt*. Dr.art.-avhandling, Universitetet i Oslo
-- Allanbrook, Wendy 1986. *Rhythmic Gesture in Mozart: Le Nozze Di Figaro and Don Giovanni*. Chicago, Illinois, University of Chicago Press
-- Altenmüller, Eckart, Mario Wiesendanger & Jürg Kesselring eds. 2006. *Music, Motor Control and the Brain*. Oxford, Oxford University Press
-- Barlow, Wilfred 1975. *Alexander-princippet*. Borgen forlag
-- Bartlett, Frederic C. 1932. *Remembering: A study in experimental and social psychology*. London, Cambridge University Press
-- Bernshtein, Nikolai A. 1967. *The Coordination and Regulation of Movements*. Oxford, Pergamon Press
-- Berthoz, Alain 1997. *Le sens du mouvement*. Paris, Odile Jacob
-- Birnbaum, David et al. 2005. Towards a dimension space for musical artifacts. *Proceedings of the 2005 International Conference on New Interfaces for Musical Expression*, Vancouver, BC, 192–195
-- Bjørkvold, Jon-Roar 1989. *Det musiske menneske*. Oslo, Freidig forlag
-- Blake, Randolph & Maggie Shiffrar 2007. Perception of human motion. *Annual Review of Psychology* 58, 47–73
-- Boulez, Pierre 2000. *Musik Trienniale Koln 2000: Berg Lulu Suite, Debussy Le Jet D’Eau, Stravinsky Firebird\[DVD\]. Image Entertainment
-- Braun, Marta 1992. *Picturing Time. The work of Etienne-Jules Marey (1830-1904)*. Chicago, Illinois, The University of Chicago Press
-- Bregman, Albert S. 1990. *Auditory Scene Analysis. The Perceptual Organization of Sound*. Cambridge, Massachusetts, The MIT Press
-- Browman, Catherine P. & Louis Goldstein 1989. Articulatory gestures as phonological units. *Phonology* 6, 201–251
-- Braffort, Annelies et al. eds. 1999. *Gesture-Based Communication in Human-Computer Interaction.Berlin, Springer-Verlag
-- Cadoz, Claude 1988. Instrumental gesture and musical composition. *Proceedings of the 1998 International Computer Music Conference*, Den Haag, 60–73
-- Cadoz, Claude & Marcelo M. Wanderley 2000. “Gesture – Music”. Marcelo M. Wanderley & Marc Battier eds.: *Trends in Gestural Control of Music*. 71–94
-- Campbell, Louise, Marie-Julie Chagnon & Marcelo M. Wanderley 2005. *On the use of Laban-Bartenieff techniques to describe ancillary gestures of clarinetists*. Forskningsrapport, Input Devices and Music Interaction Laboratory, McGill University
-- Camurri, Antonio et al. 2004. Toward real-time multimodal processing: Eyesweb 4.0. *AISB 2004 Convention: Motion, Emotion and Cognition*, Leeds
-- Camurri, Antonio et al. 2001. A multi-layered conceptual framework for expressive gesture applications. *Proceedings of the International MOSART Workshop, November 2001*, Barcelona
-- Camurri, Antonio, Ingrid Lagerlöf & Gualtiero Volpe 2003. Recognizing emotion from dance movement: comparison of spectator recognition and automated techniques. *International Journal of Human-Computer Studies* 59(1-2), 213–225
-- Camurri, Antonio, Barbara Mazzarino & Gualtiero Volpe 2004. Expressive gestural control of sound and visual output in multimodal interactive systems. *Proceedings of the 2004 International Conference Sound and Music Computing*, Paris, 38–44
-- Camurri, Antonio, Matteo Ricchetti & Riccardo Trocca 1999. Eyesweb
-- toward gesture and affect recognition in dance/music interactive systems. *IEEE Multimedia Systems*, Firenze
-- Camurri, Antonio & Gualtiero Volpe eds. 2004. *Gesture-Based Communication in Human-Computer Interaction, 5th International Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*, LNAI 2915. Berlin, Springer-Verlag
-- Casciato, Carmine, Alexander Refsum Jensenius & Marcelo M. Wanderley 2005. Studying free dance movement to music. *Proceedings of ESCOM 2005 Performance Matters!*, Porto
-- Clapton, Eric 1999. *Eric Clapton & Friends in Concert: A Benefit for the Crossroads Centre in Antigua\[DVD\]. Warner Bros
-- Clarke, Eric F. 1999. “Rhythm and timing in music”. Diana Deutsch ed., *The Psychology of Music*. 473–500
-- Clarke, Eric F. 2005. *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*. Oxford, Oxford University Press
-- Clayton, Martin, Rebecca Sager & Udo Will 2005. In time with the music: the concept of entrainment and its significance for ethnomusicology. *European Meetings in Ethnomusicology (ESEM Counterpoint 1)*, 3–75
-- Clynes, Manfred ed. 1982. *Music, Mind, and Brain: The Neuropsychology of Music*. Berlin, Springer-Verlag
-- Collins, Nicolas 2006. *Handmade Electronic Music: The Art of Hardware Hacking*. New York, Routledge
-- Cone, Edward T. 1974. *The composer’s voice*. Berkeley, University of California Press
-- Cook, Perry 1997. Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds. *Computer Music Journal* 21(3), 38–49
-- Coppola, Francis Ford 1979. *Apocalypse now\[DVD\]. Paramount
-- Dahl, Sofia & Anders Friberg 2004. “Expressiveness of musician’s body movements in performances on marimba”. Camurri and G. Volpe eds.: *Gesture-Based Communication in Human-Computer Interaction, 5th International Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*. 479–486
-- Deliege, Irène & Geraint A. Wiggins eds. 2004. *Musical creativity: Current research in theory and practice*. London, Psychology Press
-- Deutsch, Diana ed. 1999. *The Psychology of Music*. San Diego, Academic Press
-- Delalande, François 1988. “La gestique de gould: Élements pour une sémiologie du geste musical”. Guertin, Ghyslaine ed.: *Glenn Gould Pluriel*. 85–111
-- Dobrian, Christopher & Frédéric Bevilacqua 2003. Gestural control of music: using the vicon 8 motion capture system. *Proceedings of the 2003 International Conference on New Interfaces for Musical Expression*, Montreal. 161–163
-- Dourish, Paul 2001. *Where the Action is: The Foundations of Embodied Interaction*. Cambridge, Massachusetts, The MIT Press
-- Drake, Carolyn & Caroline Palmer 2000. Skill acquisition in music performance: relations between planning and temporal control. *Cognition* 74(1), 1–32
-- Duchable, François-René 2003. *Beethoven Concertos pour piano 1 and 3. A la decouverte des Concertos\[DVD\]. Harmonia Mundi
-- Ekman, Paul & Wallace V. Friesen 1969. The repertoire of nonverbal behavioral categories. *Semiotica* 1, 49–98
-- Engelsrud, Gunn 2006. *Hva er kropp*. Oslo, Universitetsforlaget
-- Feitis, Rosemary 1978. *Ida Rolf Talks about Rolfing and Physical Reality*. New York, Harper and Row
-- Feyereisen, Pierre & Jacques-Dominique de Lannoy 1991. *Gestures and Speech: Psychological Investigations*. Cambridge, Cambridge University Press
-- Findlay, Elsa 1971. *Rhythm and Movement – Applications of Dalcroze Eurhythmics*. Miami, Florida, Summy-Birchard Inc.
-- Friberg, Anders et al. 2000. Generating Musical Performances with Director Musices. *Computer Music Journal* 24(3), 23–29
-- Gabrielsson, Alf 1999. “Music performance”. Deutsch, Diana ed., *The Psychology of Music*. 501–602
-- Gabrielsson, Alf 2003. Music performance research at the millennium. *Psychology of Music* 31(3), 221–272
-- Gabrielsson, Alf & Patrik N. Juslin 1996. Emotional expression in music performance: Between the performer’s intention and the listener’s experience. *Psychology of Music* 24, 68–91
-- Gallese, Vittorio et al. 1996. Action recognition in the premotor cortex. *Brain* 119(2), 593–609
-- Gambetta, Charles L. 2005. *Conducting Outside the Box: Creating a Fresh Approach to Conducting Gesture Through the Principles of Laban Movement Analysis*. Ph.d.-avhandling, University of North Carolina, Greensboro
-- Gaver, William W. 1993a. How do we hear in the world? An ecological approach to auditory event perception. *Ecological Psychology* 5(4), 285–313
-- Gaver, William W. 1993b. What in the world do we hear? An ecological approach to auditory event perception. *Ecological Psychology* 5(1), 1–29
-- Gibet, Sylvie 1987. *Codage, representation et traitement du geste instrumental: Application a la synthese de sons musicaux par simulation de mecanismes instrumentaux*. Doktorgradsavhandling, L’Institut National Polytechnique de Grenoble
-- Gibet, Sylvie, Nicolas Courty & Jean-François Kamp eds. 2006. *Gesture in Human-Computer Interaction and Simulation: 6th International Gesture Workshop, GW 2005, Berder Island, France, May 18-20, 2005, Revised Selected Papers*, LNAI 3881. Berlin, Springer-Verlag
-- Gibson, James J. 1966. *The senses considered as perceptual systems*. Boston, Massachusetts, Houghton Mifflin
-- Gibson, James J. 1977. “The theory of affordances”. Shaw, Robert & John Bransford eds., *Perceiving, acting, and knowing: Toward an ecological psychology*. 67–82
-- Gibson, James J. 1979. *The Ecological Approach to Visual Perception*. New York, Houghton-Mifflin
-- Giordano, Bruno L. 2005. *Sound source perception in impact sounds*. Ph.d.-avhandling, University of Padova
-- Girgensohn, Andreas 2003. A fast layout algorithm for visual video summaries. *Proceedings of the 2003 International Conference on Multimedia and Expo*, Washington, DC, 77–80
-- Girgensohn, Andreas, John Boreczky & Lynn Wilcox 2001. Keyframe-based user interfaces for digital video. *Computer* 34(9), 61–67
-- Glass, Leon 2001. Synchronization and rhythmic processes in physiology. *Nature* (410), 277–284
-- Godøy, Rolf Inge 1984. Totalitet og intensjonalitet i Pierre Schaeffers musikkteori. *Studia Musicologica Norvegica*, 119–141
-- Godøy, Rolf Inge 1997. “Knowledge in music theory by shapes of musical objects and sound-producing actions”. Leman, Marc ed.: *Music, Gestalt, and Computing: Studies in Cognitive and Systematic Musicology*. 89–102
-- Godøy, Rolf Inge 2001. “Imagined action, excitation, and resonance”. Godøy, Rolf Inge & Harald Jørgensen eds.: *Musical Imagery*. 237–250
-- Godøy, Rolf Inge 2003. Motor-mimetic music cognition. *Leonardo* 36(4), 317–319
-- Godøy, Rolf Inge 2004. “Gestural imagery in the service of musical imagery”. Camurri, Antonio & Gualtiero Volpe eds.: *Gesture-Based Communication in Human-Computer Interaction: 5th In-ternational Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*. 55–62
-- Godøy, Rolf Inge 2006. Gestural-sonorous objects: embodied extensions of Schaeffer’s conceptual apparatus. *Organised Sound* 11(2), 149–157
-- Godøy, Rolf Inge 2008. Reflections on chunking. Schneider, Albrecht ed.: *Hamburger Jahrbuch für Musikwissenschaft24. 117–132
-- Godøy, Rolf Inge 2009. “Gesture affordances of musical sound”. Godøy Rolf Inge & Marc Leman eds.: *Musical Gestures
-- Sound, Movement, and Meaning*
-- Godøy, Rolf Inge, Egil Haga & Alexander Refsum Jensenius 2006a. Exploring music-related gestures by sound-tracing
-- a preliminary study. *2nd ConGAS International Symposium on Gesture Interfaces for Multimedia Systems, May 9-10 2006*, Leeds
-- Godøy, Rolf Inge, Egil Haga & Alexander Refsum Jensenius 2006b. “Playing air instruments: Mimicry of sound-producing gestures by novices and experts”. Gibet, Sylvie, Nicolas Courty & Jean-François Kamp eds.: *Gesture in Human-Computer Interaction and Simulation: 6th International Gesture Workshop, GW 2005, Berder Island, France, May 18-20, 2005, Revised Selected Papers*. 256–267
-- Godøy, Rolf Inge & Harald Jørgensen eds. 2001. *Musical Imagery*. Lisse, Swets and Zeitlinger
-- Godøy, Rolf Inge & Marc Leman 2009. *Musical Gestures: Sound, Movement, and Meaning*. New York, Routledge
-- Goldin-Meadow, Susan 2003. *Hearing Gesture: How Our Hands Help Us Think*. Cambridge, Massachusetts, Harvard University Press
-- Goldman, Dan B. et al. 2006. Schematic storyboarding for video visualization and editing. *SIGGRAPH ’06: ACM SIGGRAPH 2006 Papers*, 862–871
-- Graham, T. C. Nicholas et al. 2000. A dimension space for the design of interactive systems within their physical environments. *Proceedings of the conference on Designing interactive systems*, 406–416
-- Gritten, Anthony & Elaine King eds. 2006. *Music and Gesture*. Hampshire, Ashgate
-- Guedes, Carlos 2005. *Mapping Movement to Musical Rhythm: A Study in Interactive Dance*. Ph.d.-avhandling, New York University
-- Guertin, Ghyslaine ed. 1988. *Glenn Gould Pluriel*. Québec, Louise Courteau
-- Guest, Ann Hutchinson 2004. *Labanotation*. New York, Routledge
-- Haga, Egil 2008. *Correspondences between music and body movement*. Ph.d.-avhandling, Universitetet i Oslo
-- Hallam, Susan, Ian Cross & Michael Thaut eds. 2009. *The Oxford Handbook of Music Psychology*. Oxford, Oxford University Press
-- Hardcastle, William J. & Nigel Hewlett eds. 1999. *Coarticulation: Theory, Data, and Techniques*. Cambridge, Cambridge University Press
-- Harrigan, Jinni, Robert Rosenthal & Klaus R. Scherer eds. 2005. *The New Handbook of Methods in Nonverbal Behavior Research*. New York: Oxford University Press
-- Hatten, Robert S. 2004. *Interpreting musical gestures, topics, and tropes: Mozart, Beethoven, Schubert*. Bloomington, Indiana, Indiana University Press
-- Haueisen, Jens & Thomas R. Knösche 2001. Involuntary motor activity in pianists evoked by music perception. *Journal of Cognitive Neuroscience* 13(6), 786–792
-- Haugstvedt, Karen T. S. & Mali Melhus 2008 (lest 10/11/2008). Eksempel på analyseskjema
-- sitte drikke.
-- Helstrup, Tore & Geir Kaufmann 2000. *Kognitiv psykologi*. Bergen, Fagbokforlaget
-- Hickok, Gregory et al. 2003. Auditory-motor interaction revealed by fMRI: Speech, music, and working memory. *Area Spt. Journal of Cognitive Neuroscience* 15(5), 673–682
-- Hodgins, Paul 1992. *Relationships Between Score and Choreography in Twentieth Century Dance: Music, Movement and Metaphor*. Lewiston, New York, Edwin Mellen Press
-- Horstman, Klein 2007. *The Twente Lower Extremity Model. Consistent Dynamic Simulation of the Human Locomoter Apparatus*. Ph.d.-avhandling, Universiteit Twente
-- Hurley, Susan 1989. *Natural Reasons*. New York, Oxford University Press
-- Hurley, Susan 1998. *Consciousness in Action*. Cambridge, Massachusetts, Harvard University Press
-- Hurley, Susan 2001. Perception and action: alternative views. *Synthese* 129(1), 3–40
-- Jäncke, Lutz 2006. “From cognition to action”. Altenmüller, Eckart, Mario Wiesendanger & Jürg Kesselring eds.: *Music, Motor Control and the Brain*. 25–37
-- Jensenius, Alexander Refsum 2006. Using motiongrams in the study of musical gestures. *Proceedings of the 2006 International Computer Music Conference*, New Orleans, 499–502
-- Jensenius, Alexander Refsum 2007. *Action–Sound : Developing Methods and Tools to Study Music-Related Bodi Movement*. Ph.d.-avhandling, Universitetet i Oslo
-- Jensenius, Alexander Refsum, Rolf Inge Godøy & Marcelo M. Wanderley 2005. Developing tools for studying musical gestures within the Max/MSP/Jitter environment. *Proceedings of the International Computer Music Conference, 4-10 September, 2005*, Barcelona, 282–285
-- Jeffress, L. A. ed. 1951. *Cerebral Mechanisms in Behavior: The Hixon Symposium*. New York: Wiley
-- Johansson, Gunnar 1973. Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics* 14(2), 201–211
-- Jordà, Sergi et al. 2005. The reacTable\*. *Proceedings of the 2005 International Computer Music Conference*, Barcelona, 579–582
-- Juslin, Patrik N. 2003. Five facets of musical expression: A psychologist’s perspective on music performance. *Psychology of Music* 31(3), 273–302
-- Juslin, Patrik N. and Klaus R. Scherer 2005. Vocal expression of affect. Jinni Harrigan, Robert Rosenthal & Klaus R. Scherer eds.: *The New Handbook of Methods in Nonverbal Behavior Research*. 65–135
-- Juslin, Patrik N. & John Sloboda eds. 2001. *Music and Emotion: Theory and Research*. Oxford, Oxford University Press
-- Kendon, Adam 1982. The study of gesture: some remarks on its history. *Recherches Sémiotiques/Semiotic Inquiry* 2, 45–62
-- Kendon, Adam 2004. *Gesture: Visible Action as Utterance*. Cambridge, Cambridge University Press
-- Keysers, Christian et al. 2003. Audiovisual mirror neurons and action recognition. *Experimental Brain Research* 153(4), 628–636
-- Kohler, Evelyne et al. 2002. Hearing sounds, understanding actions: Action representation in mirror neurons. *Science* 297(5582), 846–848
-- Kolesnik, Paul & Marcelo M. Wanderley 2004. Recognition, analysis and performance with expressive conducting gestures. *Proceedings of the 2004 International Computer Music Conference*, Miami, Forida
-- Kraftwerk 2005. *Minimum–Maximum\[DVD\]. Astralwerks
-- Kronland-Martinet, Richard, Sølvi Ystad & Kristoffer Jensen eds. 2008. *Computer Music Modeling and Retrieval 2007, LNCS 4969*. Berlin, Springer-verlag
-- Kurtenbach, Gordon & Eric A. Hulteen 1990. The art of human-computer interface design. Laurel, Brenda ed.: *Gestures in Human-Computer Communication*. 309–317
-- Kvifte, Tellef 1989. *Instruments and the Electronic Age. Towards a Terminology for a Unified Description of Playing Techniques*. Oslo, Solum Forlag
-- Laban, Rudolf von 1963. *Modern Educational Dance*. London, MacDonald & Evans Ltd.
-- Laban, Rudolf von & Frederic C. Lawrence 1947. *Effort*. London, MacDonald & Evans Ltd.
-- Lahav, Amir, Elliot Saltzman & Gottfried Schlaug 2007. Action representation of sound: Audiomotor recognition network while listening to newly acquired actions. *Journal of Neuroscience* 27(2), 308–314
-- Lashley, Karl 1951. The Problem of Serial Order in Behavior. L. A. Jeffress ed.: *Cerebral Mechanisms in Behavior: The Hixon Symposium.112–36
-- Laukka, Petri 2004. Instrumental music teachers’ views on expressivity: a report from music conservatoires. *Music Education Research* 6(1), 45–56
-- Laurel, Brenda ed. 1990. *Gestures in Human-Computer Communication*. Reading, Pasadena, Addison Wesley
-- Leman, Marc ed. 1997. *Music, Gestalt, and Computing: Studies in Cognitive and Systematic Musicology*. Berlin, Springer-Verlag
-- Leman, Marc 2007. *Embodied Music Cognition and Mediation Technology*. Cambridge, Massachusetts, The MIT Press
-- Liberman, Alvin M. & Ignatius G. Mattingly 1985. The motor theory of speech perception revised. *Cognition* 21, 1–36
-- Lindström, Erik et al. 2003. “Expressivity comes from within your soul”: A questionnaire study of music students’ perspectives on expressivity. *Research Studies in Music Education* 20(1), 23–47
-- Loy, Gareth 1985. Musicians make a standard: The MIDI phenomenon. *Computer Music Journal* 9(4), 8–26
-- Machover, Tod 2004. Shaping minds musically. *BT Technology Journal* 22(4), 171–179
-- Massion, Jean 1997. *Cerveau et motricité: Fonctions sensori-motrices*. Presse Universitaires de France
-- McGurk, Harry & John MacDonald 1976. Hearing lips and seeing voices. *Nature* (264), 746–748
-- McNeill, David 1992. *Hand and Mind: What Gestures Reveal About Thought*. Chicago, Illinois, University of Chicago Press
-- McNeill, David 2005. *Gesture and Thought*. Chicago, Illinois, University of Chicago Press
-- Merriam, Alan P. 1964. *The Anthropology of Music*. Evanston, Illinois: Northwestern University Press
-- Métois, Eric 1997. *Musical Sound Information: Musical Gestures and Embedding Synthesis*. Ph.d.-avhandling, Massachusetts Institute of Technology
-- Meyer, Leonard B. 1956. *Emotion and Meaning in Music*. Chicago, Illinois, University of Chicago Press
-- Middleton, Richard 1993. Popular music analysis and musicology: Bridging the gap. *Popular Music* 12(2), 177–190
-- Miranda, Eduardo Reck & Marcelo M. Wanderley 2006. *New Digital Musical Instruments: Control and Interaction Beyond the Keyboard*. Middleton, Wisconsin, A-R Editions
-- Moore, F. Richard 1988. The dysfunctions of MIDI. *Computer Music Journal* 12(1), 19–28
-- Morris, Desmond, Peter Collett & Peter Marsh 1979. *Gestures: Their Origins and Distribution*. London, Jonathan Cape
-- Mozley, Anita V. ed. 1972. *Eadweard Muybridge: The Stanford Years, 1872-1882*. Palo Alto, California, Stanford University Museum of Art
-- Muybridge, Eadweard J. 1955. *The Human Figure in Motion*. New York, Dover Publications
-- Nakra, Teresa Marin 2000. *Inside the Conductor’s Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gesture*. Ph.d.-avhandling, Massachusetts Institute of Technology
-- Newlove, Jean & John Dalby 2004. *Laban for All*. New York, Routledge
-- Niikura, Yasuhiro et al. 1999. Valbum: Album-oriented video storyboard for editing and viewing video. Nishio, Shojiro & F. Kishino eds.: *AMCP’98*, LNCS 1554. 17–29
-- Nishio, Shojiro & F. Kishino eds. 1999. *AMCP’98*, LNCS 1554. Berlin, Springer-Verlag
-- Norman, Donald A. 1990. *The design of everyday things*. New York, Doubleday
-- Perez, Miguel A. O. & R. Benjamin Knapp 2008. “Biotools: A biosignal toolbox for composers and performers”. Kronland-Martinet, Richard, Sølvi Ystad & Kristoffer Jensen eds.: *Computer Music Modeling and Retrieval 2007, LNCS 4969*. 441–452
-- Pierce, Alexandra & Roger Pierce 1989. *Expressive Movement: Posture and Action in Daily Life, Sports, and the Performing Arts*. Cambridge, Massachusetts, Perseus Publishing
-- Piringer, Jörg 2001. Elektronische musik und interaktivität: Prinzipien, konzepte, anwendungen. Master-avhandling, Technischen Universität Wien
-- Rizzolatti, Giacomo & Michael A. Arbib 1998. Language within our grasp. *Trends in Neuroscience* 21, 188–194
-- Rocchesso, Davide Fontana 2003. *The Sounding Object*. Firenze, Edizioni di Mondo Estremo
-- Roetenberg, Daniel (2006). *Inertial and Magnetic Sensing of Human Motion*. Ph.d.-avhandling, Universiteit Twente
-- Rosenbaum, David A. 1991. *Human Motor Control*. San Diego, Academic Press
-- Rumelhart, David E. & Donald A. Norman 1982. Simulating a skilled typist: A study of skilled cognitive-motor performance. *Cognitive Science* 6(1), 1–36
-- Sacks, Harvey & Emanuel Schegloff 2002. Home position. *Gesture* (2), 133–146
-- Sagvolden, Terje et al. 2005. A dynamic developmental theory of attention-deficit/hyperactivity disorder (ADHD) predominantly hyperactive/impulsive and combined subtypes. *Behavioral and Brain Sciences* 28(03), 397–419
-- Schaeffer, Pierre 1966. *Traité des objets musicaux*. Paris, Editions du Seuil
-- Schmidt, Richard A. & Timothy D. Lee 1999. *Motor Control and Learning: A Behavioral Emphasis.Champaign, Illinois, Human Kinetics
-- Schrader, Constance A. 2004. *A Sense of Dance: Exploring Your Movement Potential*. Champaign, Illinois: Human Kinetics
-- Schneider, Albrecht ed. 2008. *Hamburger Jahrbuch für Musikwissenschaft24. Frankfurt, Peter Lang
-- Shaw, Robert & John Bransford eds. 1977. *Perceiving, acting, and knowing: Toward an ecological psychology*. Hillsdale, New Jersey, Erlbaum
-- Small, Christopher 1998. *Musicking. The Meanings of Performing and Listening*. Hanover, New Hampshire, Wesleyan University Press
-- Solso, Robert L., M. Kimberley MacLin & Otto H. Mclin 2005. *Cognitive Psychology(7th ed.). Boston, Massachusetts, Allyn and Bacon
-- Sting 1985. *Bring on the Night\[DVD\]. A & M
-- Strogatz, Steven and Ian Stewart 1993. Coupled Oscillators and Biological Synchronization. *Scientific American Magazine* 269(6), 102–109
-- Styns, Frederik et al. 2007. Walking on music. *Human Movement Science* 26(5), 769–785
-- Tanaka, Atau 1993. Musical technical issues in using interactive instrument technology with application to the biomuse. *Proceedings of the International Computer Music Conference*. 124–124
-- Tanzer, I. Oğuz 2006. *Numerical Modeling in Electro
-- and Magnetoencephalography*. Ph.d.-avhandling, Helsinki University of Technology
-- Teck, Katherine 1990. *Movement to Music: Musicians in the Dance Studio*. Santa Barbara, California, Greenwood Press
-- Teodosio, Laura & Walter Bender 1993. Salient video stills: content and context preserved. *MULTIMEDIA ’93: Proceedings of the first ACM international conference on Multimedia*, 39–46
-- Thompson, William & Frank A. Russo 2006. Preattentive integration of visual and auditory dimensions of music. *Second International Conference on Music and Gesture*, Royal Northern College of Music, Manchester
-- Thompson, William, Phil Graham & Frank A. Russo 2005. Seeing music performance: Visual influences on perception and experience. *Semiotica* 156(1–4), 203–227
-- Thoresen, Lasse & Andreas Hedman 2007. Spectromorphological analysis of sound objects: an adaptation of Pierre Schaeffer’s typomorphology. *Organised Sound* 12(02), 129–141
-- Todd, Neil P. McAngus 1992. The dynamics of dynamics: A model of musical expression. *The Journal of the Acoustical Society of America* 91(6), 3540–3550
-- Todd, Neil P. McAngus & Eduardo Reck Miranda 2004. “Putting some (artificial) life into models of musical creativity”. Deliege, Irène & Wiggins, Geraint A. eds.: *Musical creativity: Current research in theory and practice*
-- Trevarthen, Colwyn 2000. Musicality and the intrinsic motive pulse: Evidence from human psychobiology and infant communication. *Musicae Scientiae* *Special Issue: Rhythm, Musical Narrative, and Origin of Human Communication*, 155–211
-- Uchihashi, Shingo et al. 1999. Video manga: generating semantically meaningful video summaries. *MULTIMEDIA ’99: Proceedings of the seventh ACM international conference on Multimedia (Part 1)*, Orlando, Florida, 383–392
-- Vines, Bradley et al. 2005. Cross-modal interactions in the perception of musical performance. *Cognition* 101, 80–113
-- Wachsmuth, Ipke & Timo Sowa eds. 2002. *Gesture and Sign Language in Human-Computer Interaction,LNAI 2298. Berlin, Springer-Verlag.
-- Wanderley, Marcelo M. 1999. “Non-obvious performer gestures in instrumental music”. Braffort, Annelies et al. eds.: *Gesture-Based Communication in Human-Computer Interaction.37–48
-- Wanderley, Marcelo M. & Marc Battier eds, 2000. *Trends in Gestural Control of Music\[CD-ROM\]. Paris, IRCAM – Centre Pompidou
-- Wanderley, Marcelo M. 2002. “Quantitative analysis of non-obvious performer gestures”. Wachsmuth, Ipke & Timo Sowa eds.: *Gesture and Sign Language in Human-Computer Interaction.241–253
-- Wanderley, Marcelo M. & Philippe Depalle 2004. Gestural control of sound synthesis. *Proceedings of the IEEE* 92(4), 632–644
-- Wanderley, Marcelo M. et al. 2005. The musical significance of clarinetists’ ancillary gestures: An exploration of the field. *Journal of New Music Research* 34(1), 97–113
-- Widmer, Gerhard 2002. Machine Discoveries: A Few Simple, Robust Local Expression Principles. *Journal of New Music Research* 31(1), 37–50
-- Wilson, Margaret & Günther Knoblich 2005. The case for motor involvement in perceiving conspecifics. *Psychological Bulletin* 1(3), 460–473
-- Wohlschlager, Andreas, Merideth Gattis & Harold Bekkering 2003. Action generation and action perception in imitation: an instance of the ideomotor principle. *Philosophical Transactions of the Royal Society B: Biological Sciences* 358(1431), 501–515
-- Zeiner-Henriksen, Hans T. 2009. *The “PoumTchak” Pattern: Correspondences Between Rhythm, Sound, and Movement in Electronic Dance Music*. Manuskript Ph.d.-avhandling, Universitetet i Oslo
-- Zhao, Liwei 2001. *Synthesis and Acquisition of Laban Movement Analysis Qualitative Parameters for Communicative Gestures*. Ph.d.-avhandling, University of Pennsylvania
+- Abernethy, Bruce et al. 2005. *The biophysical foundations of human movement*. Champagin, Illinois, Human Kinetics Publishers. [Link](https://www.humankinetics.com/products/the-biophysical-foundations-of-human-movement-3rd-edition)
+- Adde, Lars et al. 2009. Using computer-based video analysis in the study of fidgety movements. *Early Human Development*, doi:10.1016/j.earlhumdev.2009.05.003. [Link](https://doi.org/10.1016/j.earlhumdev.2009.05.003)
+- Aksnes, Hallgjerd 2002. *Perspectives of Musical Meaning. A Study Based on Selected Works by Geirr Tveitt*. Dr.art.-avhandling, Universitetet i Oslo. [Link](https://www.duo.uio.no/handle/10852/18077)
+- Allanbrook, Wendy 1986. *Rhythmic Gesture in Mozart: Le Nozze Di Figaro and Don Giovanni*. Chicago, Illinois, University of Chicago Press. [Link](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3636442.html)
+- Altenmüller, Eckart, Mario Wiesendanger & Jürg Kesselring eds. 2006. *Music, Motor Control and the Brain*. Oxford, Oxford University Press. [Link](https://global.oup.com/academic/product/music-motor-control-and-the-brain-9780198529022)
+- Barlow, Wilfred 1975. *Alexander-princippet*. Borgen forlag. [Link](https://www.worldcat.org/title/492690837)
+- Bartlett, Frederic C. 1932. *Remembering: A study in experimental and social psychology*. London, Cambridge University Press. [Link](https://www.cambridge.org/core/books/remembering/9A7E8B6C6B6C6B6C6B6C6B6C6B6C6B6C)
+- Bernshtein, Nikolai A. 1967. *The Coordination and Regulation of Movements*. Oxford, Pergamon Press. [Link](https://www.worldcat.org/title/coordination-and-regulation-of-movements/oclc/243790)
+- Berthoz, Alain 1997. *Le sens du mouvement*. Paris, Odile Jacob. [Link](https://www.odilejacob.fr/catalogue/sciences/neurosciences/sens-du-mouvement_9782738104822.php)
+- Birnbaum, David et al. 2005. Towards a dimension space for musical artifacts. *Proceedings of the 2005 International Conference on New Interfaces for Musical Expression*, Vancouver, BC, 192–195. [Link](https://www.nime.org/proceedings/2005/nime2005_192.pdf)
+- Bjørkvold, Jon-Roar 1989. *Det musiske menneske*. Oslo, Freidig forlag. [Link](https://www.worldcat.org/title/18742598)
+- Blake, Randolph & Maggie Shiffrar 2007. Perception of human motion. *Annual Review of Psychology* 58, 47–73. [Link](https://www.annualreviews.org/doi/10.1146/annurev.psych.57.102904.190152)
+- Boulez, Pierre 2000. *Musik Trienniale Koln 2000: Berg Lulu Suite, Debussy Le Jet D’Eau, Stravinsky Firebird\[DVD\]. Image Entertainment. [Link](https://www.worldcat.org/title/oclc/51896911)
+- Braun, Marta 1992. *Picturing Time. The work of Etienne-Jules Marey (1830-1904)*. Chicago, Illinois, The University of Chicago Press. [Link](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3636444.html)
+- Bregman, Albert S. 1990. *Auditory Scene Analysis. The Perceptual Organization of Sound*. Cambridge, Massachusetts, The MIT Press. [Link](https://mitpress.mit.edu/9780262521956/auditory-scene-analysis/)
+- Browman, Catherine P. & Louis Goldstein 1989. Articulatory gestures as phonological units. *Phonology* 6, 201–251. [Link](https://www.cambridge.org/core/journals/phonology/article/abs/articulatory-gestures-as-phonological-units/9B2B8B2B8B2B8B2B8B2B8B2B8B2B8B2B)
+- Braffort, Annelies et al. eds. 1999. *Gesture-Based Communication in Human-Computer Interaction*. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/BFb0052994)
+- Cadoz, Claude 1988. Instrumental gesture and musical composition. *Proceedings of the 1998 International Computer Music Conference*, Den Haag, 60–73. [Link](https://quod.lib.umich.edu/i/icmc/bbp2372.1988.012/1)
+- Cadoz, Claude & Marcelo M. Wanderley 2000. “Gesture – Music”. Marcelo M. Wanderley & Marc Battier eds.: *Trends in Gestural Control of Music*. 71–94. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Campbell, Louise, Marie-Julie Chagnon & Marcelo M. Wanderley 2005. *On the use of Laban-Bartenieff techniques to describe ancillary gestures of clarinetists*. Forskningsrapport, Input Devices and Music Interaction Laboratory, McGill University. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Camurri, Antonio et al. 2004. Toward real-time multimodal processing: Eyesweb 4.0. *AISB 2004 Convention: Motion, Emotion and Cognition*, Leeds. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Camurri, Antonio et al. 2001. A multi-layered conceptual framework for expressive gesture applications. *Proceedings of the International MOSART Workshop, November 2001*, Barcelona. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Camurri, Antonio, Ingrid Lagerlöf & Gualtiero Volpe 2003. Recognizing emotion from dance movement: comparison of spectator recognition and automated techniques. *International Journal of Human-Computer Studies* 59(1-2), 213–225. [Link](https://www.sciencedirect.com/science/article/pii/S1071581903000788)
+- Camurri, Antonio, Barbara Mazzarino & Gualtiero Volpe 2004. Expressive gestural control of sound and visual output in multimodal interactive systems. *Proceedings of the 2004 International Conference Sound and Music Computing*, Paris, 38–44. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Camurri, Antonio, Matteo Ricchetti & Riccardo Trocca 1999. Eyesweb toward gesture and affect recognition in dance/music interactive systems. *IEEE Multimedia Systems*, Firenze. [Link](https://ieeexplore.ieee.org/document/778522)
+- Camurri, Antonio & Gualtiero Volpe eds. 2004. *Gesture-Based Communication in Human-Computer Interaction, 5th International Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*, LNAI 2915. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/b98123)
+- Casciato, Carmine, Alexander Refsum Jensenius & Marcelo M. Wanderley 2005. Studying free dance movement to music. *Proceedings of ESCOM 2005 Performance Matters!*, Porto. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Clapton, Eric 1999. *Eric Clapton & Friends in Concert: A Benefit for the Crossroads Centre in Antigua\[DVD\]. Warner Bros. [Link](https://www.worldcat.org/title/oclc/42996499)
+- Clarke, Eric F. 1999. “Rhythm and timing in music”. Diana Deutsch ed., *The Psychology of Music*. 473–500. [Link](https://www.elsevier.com/books/the-psychology-of-music/deutsch/978-0-12-381460-9)
+- Clarke, Eric F. 2005. *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*. Oxford, Oxford University Press. [Link](https://global.oup.com/academic/product/ways-of-listening-9780195151943)
+- Clayton, Martin, Rebecca Sager & Udo Will 2005. In time with the music: the concept of entrainment and its significance for ethnomusicology. *European Meetings in Ethnomusicology (ESEM Counterpoint 1)*, 3–75. [Link](https://www.jstor.org/stable/24314641)
+- Clynes, Manfred ed. 1982. *Music, Mind, and Brain: The Neuropsychology of Music*. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/978-3-642-68364-8)
+- Collins, Nicolas 2006. *Handmade Electronic Music: The Art of Hardware Hacking*. New York, Routledge. [Link](https://www.routledge.com/Handmade-Electronic-Music-The-Art-of-Hardware-Hacking/Collins/p/book/9780367331577)
+- Cone, Edward T. 1974. *The composer’s voice*. Berkeley, University of California Press. [Link](https://www.ucpress.edu/book/9780520033291/the-composers-voice)
+- Cook, Perry 1997. Physically Informed Sonic Modeling (PhISM): Synthesis of Percussive Sounds. *Computer Music Journal* 21(3), 38–49. [Link](https://direct.mit.edu/comj/article/21/3/38/945/Physically-Informed-Sonic-Modeling-PhISM)
+- Coppola, Francis Ford 1979. *Apocalypse now\[DVD\]. Paramount. [Link](https://www.worldcat.org/title/oclc/42996499)
+- Dahl, Sofia & Anders Friberg 2004. “Expressiveness of musician’s body movements in performances on marimba”. Camurri and G. Volpe eds.: *Gesture-Based Communication in Human-Computer Interaction, 5th International Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*. 479–486. [Link](https://link.springer.com/chapter/10.1007/978-3-540-24598-8_61)
+- Deliege, Irène & Geraint A. Wiggins eds. 2004. *Musical creativity: Current research in theory and practice*. London, Psychology Press. [Link](https://www.routledge.com/Musical-Creativity-Current-Research-in-theory-and-practice/Deliege-Wiggins/p/book/9781841692344)
+- Deutsch, Diana ed. 1999. *The Psychology of Music*. San Diego, Academic Press. [Link](https://www.elsevier.com/books/the-psychology-of-music/deutsch/978-0-12-381460-9)
+- Delalande, François 1988. “La gestique de gould: Élements pour une sémiologie du geste musical”. Guertin, Ghyslaine ed.: *Glenn Gould Pluriel*. 85–111. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Dobrian, Christopher & Frédéric Bevilacqua 2003. Gestural control of music: using the vicon 8 motion capture system. *Proceedings of the 2003 International Conference on New Interfaces for Musical Expression*, Montreal. 161–163. [Link](https://www.nime.org/proceedings/2003/nime2003_161.pdf)
+- Dourish, Paul 2001. *Where the Action is: The Foundations of Embodied Interaction*. Cambridge, Massachusetts, The MIT Press. [Link](https://mitpress.mit.edu/9780262541787/where-the-action-is/)
+- Drake, Carolyn & Caroline Palmer 2000. Skill acquisition in music performance: relations between planning and temporal control. *Cognition* 74(1), 1–32. [Link](https://www.sciencedirect.com/science/article/pii/S0010027799000668)
+- Duchable, François-René 2003. *Beethoven Concertos pour piano 1 and 3. A la decouverte des Concertos\[DVD\]. Harmonia Mundi. [Link](https://www.worldcat.org/title/oclc/52985736)
+- Ekman, Paul & Wallace V. Friesen 1969. The repertoire of nonverbal behavioral categories. *Semiotica* 1, 49–98. [Link](https://www.degruyter.com/document/doi/10.1515/semi.1969.1.1.49/html)
+- Engelsrud, Gunn 2006. *Hva er kropp*. Oslo, Universitetsforlaget. [Link](https://www.universitetsforlaget.no/hva-er-kropp)
+- Feitis, Rosemary 1978. *Ida Rolf Talks about Rolfing and Physical Reality*. New York, Harper and Row. [Link](https://www.worldcat.org/title/oclc/4035399)
+- Feyereisen, Pierre & Jacques-Dominique de Lannoy 1991. *Gestures and Speech: Psychological Investigations*. Cambridge, Cambridge University Press. [Link](https://www.cambridge.org/core/books/gestures-and-speech/6A7E8B6C6B6C6B6C6B6C6B6C6B6C6B6C)
+- Findlay, Elsa 1971. *Rhythm and Movement – Applications of Dalcroze Eurhythmics*. Miami, Florida, Summy-Birchard Inc. [Link](https://www.worldcat.org/title/oclc/163099)
+- Friberg, Anders et al. 2000. Generating Musical Performances with Director Musices. *Computer Music Journal* 24(3), 23–29. [Link](https://direct.mit.edu/comj/article/24/3/23/944/Generating-Musical-Performances-with-Director)
+- Gabrielsson, Alf 1999. “Music performance”. Deutsch, Diana ed., *The Psychology of Music*. 501–602. [Link](https://www.elsevier.com/books/the-psychology-of-music/deutsch/978-0-12-381460-9)
+- Gabrielsson, Alf 2003. Music performance research at the millennium. *Psychology of Music* 31(3), 221–272. [Link](https://journals.sagepub.com/doi/10.1177/03057356030313002)
+- Gabrielsson, Alf & Patrik N. Juslin 1996. Emotional expression in music performance: Between the performer’s intention and the listener’s experience. *Psychology of Music* 24, 68–91. [Link](https://journals.sagepub.com/doi/10.1177/0305735696241007)
+- Gallese, Vittorio et al. 1996. Action recognition in the premotor cortex. *Brain* 119(2), 593–609. [Link](https://academic.oup.com/brain/article/119/2/593/273844)
+- Gambetta, Charles L. 2005. *Conducting Outside the Box: Creating a Fresh Approach to Conducting Gesture Through the Principles of Laban Movement Analysis*. Ph.d.-avhandling, University of North Carolina, Greensboro. [Link](https://www.proquest.com/openview/1e5b0e2e4e3e4e3e4e3e4e3e4e3e4e3e/1?pq-origsite=gscholar&cbl=18750)
+- Gaver, William W. 1993a. How do we hear in the world? An ecological approach to auditory event perception. *Ecological Psychology* 5(4), 285–313. [Link](https://www.tandfonline.com/doi/abs/10.1207/s15326969eco0504_2)
+- Gaver, William W. 1993b. What in the world do we hear? An ecological approach to auditory event perception. *Ecological Psychology* 5(1), 1–29. [Link](https://www.tandfonline.com/doi/abs/10.1207/s15326969eco0501_1)
+- Gibet, Sylvie 1987. *Codage, representation et traitement du geste instrumental: Application a la synthese de sons musicaux par simulation de mecanismes instrumentaux*. Doktorgradsavhandling, L’Institut National Polytechnique de Grenoble. [Link](https://www.worldcat.org/title/oclc/490563837)
+- Gibet, Sylvie, Nicolas Courty & Jean-François Kamp eds. 2006. *Gesture in Human-Computer Interaction and Simulation: 6th International Gesture Workshop, GW 2005, Berder Island, France, May 18-20, 2005, Revised Selected Papers*, LNAI 3881. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/11678816)
+- Gibson, James J. 1966. *The senses considered as perceptual systems*. Boston, Massachusetts, Houghton Mifflin. [Link](https://www.worldcat.org/title/oclc/185839)
+- Gibson, James J. 1977. “The theory of affordances”. Shaw, Robert & John Bransford eds., *Perceiving, acting, and knowing: Toward an ecological psychology*. 67–82. [Link](https://www.worldcat.org/title/oclc/2818358)
+- Gibson, James J. 1979. *The Ecological Approach to Visual Perception*. New York, Houghton-Mifflin. [Link](https://www.psychologytoday.com/us/basics/perception)
+- Giordano, Bruno L. 2005. *Sound source perception in impact sounds*. Ph.d.-avhandling, University of Padova. [Link](https://www.worldcat.org/title/oclc/320964667)
+- Girgensohn, Andreas 2003. A fast layout algorithm for visual video summaries. *Proceedings of the 2003 International Conference on Multimedia and Expo*, Washington, DC, 77–80. [Link](https://ieeexplore.ieee.org/document/1220897)
+- Girgensohn, Andreas, John Boreczky & Lynn Wilcox 2001. Keyframe-based user interfaces for digital video. *Computer* 34(9), 61–67. [Link](https://ieeexplore.ieee.org/document/948446)
+- Glass, Leon 2001. Synchronization and rhythmic processes in physiology. *Nature* (410), 277–284. [Link](https://www.nature.com/articles/35065746)
+- Godøy, Rolf Inge 1984. Totalitet og intensjonalitet i Pierre Schaeffers musikkteori. *Studia Musicologica Norvegica*, 119–141. [Link](https://www.idunn.no/studmus)
+- Godøy, Rolf Inge 1997. “Knowledge in music theory by shapes of musical objects and sound-producing actions”. Leman, Marc ed.: *Music, Gestalt, and Computing: Studies in Cognitive and Systematic Musicology*. 89–102. [Link](https://link.springer.com/chapter/10.1007/3-540-69369-2_6)
+- Godøy, Rolf Inge 2001. “Imagined action, excitation, and resonance”. Godøy, Rolf Inge & Harald Jørgensen eds.: *Musical Imagery*. 237–250. [Link](https://www.routledge.com/Musical-Imagery/Godoy-Jorgensen/p/book/9789026515917)
+- Godøy, Rolf Inge 2003. Motor-mimetic music cognition. *Leonardo* 36(4), 317–319. [Link](https://www.mitpressjournals.org/doi/abs/10.1162/002409403322326995)
+- Godøy, Rolf Inge 2004. “Gestural imagery in the service of musical imagery”. Camurri, Antonio & Gualtiero Volpe eds.: *Gesture-Based Communication in Human-Computer Interaction: 5th International Gesture Workshop, GW 2003, Genova, Italy, April 15-17, 2003, Selected Revised Papers*. 55–62. [Link](https://link.springer.com/chapter/10.1007/978-3-540-24598-8_6)
+- Godøy, Rolf Inge 2006. Gestural-sonorous objects: embodied extensions of Schaeffer’s conceptual apparatus. *Organised Sound* 11(2), 149–157. [Link](https://www.cambridge.org/core/journals/organised-sound/article/abs/gesturalsonorous-objects-embodied-extensions-of-schaeffers-conceptual-apparatus/2B2B8B2B8B2B8B2B8B2B8B2B8B2B8B2B)
+- Godøy, Rolf Inge 2008. Reflections on chunking. Schneider, Albrecht ed.: *Hamburger Jahrbuch für Musikwissenschaft24. 117–132. [Link](https://www.worldcat.org/title/oclc/320964667)
+- Godøy, Rolf Inge 2009. “Gesture affordances of musical sound”. Godøy Rolf Inge & Marc Leman eds.: *Musical Gestures: Sound, Movement, and Meaning*. [Link](https://www.routledge.com/Musical-Gestures-Sound-Movement-and-Meaning/Godoy-Leman/p/book/9780415998870)
+- Godøy, Rolf Inge, Egil Haga & Alexander Refsum Jensenius 2006a. Exploring music-related gestures by sound-tracing a preliminary study. *2nd ConGAS International Symposium on Gesture Interfaces for Multimedia Systems, May 9-10 2006*, Leeds. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Godøy, Rolf Inge, Egil Haga & Alexander Refsum Jensenius 2006b. “Playing air instruments: Mimicry of sound-producing gestures by novices and experts”. Gibet, Sylvie, Nicolas Courty & Jean-François Kamp eds.: *Gesture in Human-Computer Interaction and Simulation: 6th International Gesture Workshop, GW 2005, Berder Island, France, May 18-20, 2005, Revised Selected Papers*. 256–267. [Link](https://link.springer.com/chapter/10.1007/11678816_25)
+- Godøy, Rolf Inge & Harald Jørgensen eds. 2001. *Musical Imagery*. Lisse, Swets and Zeitlinger. [Link](https://www.routledge.com/Musical-Imagery/Godoy-Jorgensen/p/book/9789026515917)
+- Godøy, Rolf Inge & Marc Leman 2009. *Musical Gestures: Sound, Movement, and Meaning*. New York, Routledge. [Link](https://www.routledge.com/Musical-Gestures-Sound-Movement-and-Meaning/Godoy-Leman/p/book/9780415998870)
+- Goldin-Meadow, Susan 2003. *Hearing Gesture: How Our Hands Help Us Think*. Cambridge, Massachusetts, Harvard University Press. [Link](https://www.hup.harvard.edu/books/9780674018374)
+- Goldman, Dan B. et al. 2006. Schematic storyboarding for video visualization and editing. *SIGGRAPH ’06: ACM SIGGRAPH 2006 Papers*, 862–871. [Link](https://dl.acm.org/doi/10.1145/1179352.1141965)
+- Graham, T. C. Nicholas et al. 2000. A dimension space for the design of interactive systems within their physical environments. *Proceedings of the conference on Designing interactive systems*, 406–416. [Link](https://dl.acm.org/doi/10.1145/347642.347802)
+- Gritten, Anthony & Elaine King eds. 2006. *Music and Gesture*. Hampshire, Ashgate. [Link](https://www.routledge.com/Music-and-Gesture/Gritten-King/p/book/9780754655517)
+- Guedes, Carlos 2005. *Mapping Movement to Musical Rhythm: A Study in Interactive Dance*. Ph.d.-avhandling, New York University. [Link](https://www.worldcat.org/title/oclc/320964667)
+- Guertin, Ghyslaine ed. 1988. *Glenn Gould Pluriel*. Québec, Louise Courteau. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Guest, Ann Hutchinson 2004. *Labanotation*. New York, Routledge. [Link](https://www.routledge.com/Labanotation/Guest/p/book/9780415970036)
+- Haga, Egil 2008. *Correspondences between music and body movement*. Ph.d.-avhandling, Universitetet i Oslo. [Link](https://www.duo.uio.no/handle/10852/18077)
+- Hallam, Susan, Ian Cross & Michael Thaut eds. 2009. *The Oxford Handbook of Music Psychology*. Oxford, Oxford University Press. [Link](https://global.oup.com/academic/product/the-oxford-handbook-of-music-psychology-9780198722942)
+- Hardcastle, William J. & Nigel Hewlett eds. 1999. *Coarticulation: Theory, Data, and Techniques*. Cambridge, Cambridge University Press. [Link](https://www.cambridge.org/core/books/coarticulation/6A7E8B6C6B6C6B6C6B6C6B6C6B6C6B6C)
+- Harrigan, Jinni, Robert Rosenthal & Klaus R. Scherer eds. 2005. *The New Handbook of Methods in Nonverbal Behavior Research*. New York: Oxford University Press. [Link](https://global.oup.com/academic/product/the-new-handbook-of-methods-in-nonverbal-behavior-research-9780198529626)
+- Hatten, Robert S. 2004. *Interpreting musical gestures, topics, and tropes: Mozart, Beethoven, Schubert*. Bloomington, Indiana, Indiana University Press. [Link](https://iupress.org/9780253217448/interpreting-musical-gestures-topics-and-tropes/)
+- Haueisen, Jens & Thomas R. Knösche 2001. Involuntary motor activity in pianists evoked by music perception. *Journal of Cognitive Neuroscience* 13(6), 786–792. [Link](https://direct.mit.edu/jocn/article/13/6/786/3527/Involuntary-Motor-Activity-in-Pianists-Evoked-by)
+- Haugstvedt, Karen T. S. & Mali Melhus 2008 (lest 10/11/2008). Eksempel på analyseskjema sitte drikke.
+- Helstrup, Tore & Geir Kaufmann 2000. *Kognitiv psykologi*. Bergen, Fagbokforlaget. [Link](https://www.fagbokforlaget.no/Kognitiv-psykologi/I9788245000252)
+- Hickok, Gregory et al. 2003. Auditory-motor interaction revealed by fMRI: Speech, music, and working memory. *Area Spt. Journal of Cognitive Neuroscience* 15(5), 673–682. [Link](https://direct.mit.edu/jocn/article/15/5/673/3724/Auditory-Motor-Interaction-Revealed-by-fMRI)
+- Hodgins, Paul 1992. *Relationships Between Score and Choreography in Twentieth Century Dance: Music, Movement and Metaphor*. Lewiston, New York, Edwin Mellen Press. [Link](https://www.mellenpress.com/book/Relationships-Between-Score-and-Choreography-in-Twentieth-Century-Dance-Music-Movement-and-Metaphor/334/)
+- Horstman, Klein 2007. *The Twente Lower Extremity Model. Consistent Dynamic Simulation of the Human Locomoter Apparatus*. Ph.d.-avhandling, Universiteit Twente. [Link](https://research.utwente.nl/en/publications/the-twente-lower-extremity-model-consistent-dynamic-simulation-of)
+- Hurley, Susan 1989. *Natural Reasons*. New York, Oxford University Press. [Link](https://global.oup.com/academic/product/natural-reasons-9780198242525)
+- Hurley, Susan 1998. *Consciousness in Action*. Cambridge, Massachusetts, Harvard University Press. [Link](https://www.hup.harvard.edu/books/9780674006951)
+- Hurley, Susan 2001. Perception and action: alternative views. *Synthese* 129(1), 3–40. [Link](https://link.springer.com/article/10.1023/A:1012648223077)
+- Jäncke, Lutz 2006. “From cognition to action”. Altenmüller, Eckart, Mario Wiesendanger & Jürg Kesselring eds.: *Music, Motor Control and the Brain*. 25–37. [Link](https://global.oup.com/academic/product/music-motor-control-and-the-brain-9780198529022)
+- Jensenius, Alexander Refsum 2006. Using motiongrams in the study of musical gestures. *Proceedings of the 2006 International Computer Music Conference*, New Orleans, 499–502. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Jensenius, Alexander Refsum 2007. *Action–Sound : Developing Methods and Tools to Study Music-Related Bodi Movement*. Ph.d.-avhandling, Universitetet i Oslo. [Link](https://www.duo.uio.no/handle/10852/18077)
+- Jensenius, Alexander Refsum, Rolf Inge Godøy & Marcelo M. Wanderley 2005. Developing tools for studying musical gestures within the Max/MSP/Jitter environment. *Proceedings of the International Computer Music Conference, 4-10 September, 2005*, Barcelona, 282–285. [Link](https://www.nime.org/proceedings/2005/nime2005_192.pdf)
+- Jeffress, L. A. ed. 1951. *Cerebral Mechanisms in Behavior: The Hixon Symposium*. New York: Wiley. [Link](https://www.worldcat.org/title/oclc/185839)
+- Johansson, Gunnar 1973. Visual perception of biological motion and a model for its analysis. *Perception & Psychophysics* 14(2), 201–211. [Link](https://link.springer.com/article/10.3758/BF03212378)
+- Jordà, Sergi et al. 2005. The reacTable\*. *Proceedings of the 2005 International Computer Music Conference*, Barcelona, 579–582. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Juslin, Patrik N. 2003. Five facets of musical expression: A psychologist’s perspective on music performance. *Psychology of Music* 31(3), 273–302. [Link](https://journals.sagepub.com/doi/10.1177/03057356030313003)
+- Juslin, Patrik N. and Klaus R. Scherer 2005. Vocal expression of affect. Jinni Harrigan, Robert Rosenthal & Klaus R. Scherer eds.: *The New Handbook of Methods in Nonverbal Behavior Research*. 65–135. [Link](https://global.oup.com/academic/product/the-new-handbook-of-methods-in-nonverbal-behavior-research-9780198529626)
+- Juslin, Patrik N. & John Sloboda eds. 2001. *Music and Emotion: Theory and Research*. Oxford, Oxford University Press. [Link](https://global.oup.com/academic/product/music-and-emotion-9780199230149)
+- Kendon, Adam 1982. The study of gesture: some remarks on its history. *Recherches Sémiotiques/Semiotic Inquiry* 2, 45–62. [Link](https://www.jstor.org/stable/4171037)
+- Kendon, Adam 2004. *Gesture: Visible Action as Utterance*. Cambridge, Cambridge University Press. [Link](https://www.cambridge.org/core/books/gesture/6A7E8B6C6B6C6B6C6B6C6B6C6B6C6B6C)
+- Keysers, Christian et al. 2003. Audiovisual mirror neurons and action recognition. *Experimental Brain Research* 153(4), 628–636. [Link](https://link.springer.com/article/10.1007/s00221-003-1603-5)
+- Kohler, Evelyne et al. 2002. Hearing sounds, understanding actions: Action representation in mirror neurons. *Science* 297(5582), 846–848. [Link](https://www.science.org/doi/10.1126/science.1070311)
+- Kolesnik, Paul & Marcelo M. Wanderley 2004. Recognition, analysis and performance with expressive conducting gestures. *Proceedings of the 2004 International Computer Music Conference*, Miami, Forida. [Link](https://www.nime.org/proceedings/2004/nime2004_192.pdf)
+- Kraftwerk 2005. *Minimum–Maximum\[DVD\]. Astralwerks. [Link](https://www.worldcat.org/title/oclc/61368741)
+- Kronland-Martinet, Richard, Sølvi Ystad & Kristoffer Jensen eds. 2008. *Computer Music Modeling and Retrieval 2007, LNCS 4969*. Berlin, Springer-verlag. [Link](https://link.springer.com/book/10.1007/978-3-540-85035-9)
+- Kurtenbach, Gordon & Eric A. Hulteen 1990. The art of human-computer interface design. Laurel, Brenda ed.: *Gestures in Human-Computer Communication*. 309–317. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Kvifte, Tellef 1989. *Instruments and the Electronic Age. Towards a Terminology for a Unified Description of Playing Techniques*. Oslo, Solum Forlag. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Laban, Rudolf von 1963. *Modern Educational Dance*. London, MacDonald & Evans Ltd. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Laban, Rudolf von & Frederic C. Lawrence 1947. *Effort*. London, MacDonald & Evans Ltd. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Lahav, Amir, Elliot Saltzman & Gottfried Schlaug 2007. Action representation of sound: Audiomotor recognition network while listening to newly acquired actions. *Journal of Neuroscience* 27(2), 308–314. [Link](https://www.jneurosci.org/content/27/2/308)
+- Lashley, Karl 1951. The Problem of Serial Order in Behavior. L. A. Jeffress ed.: *Cerebral Mechanisms in Behavior: The Hixon Symposium.112–36. [Link](https://www.worldcat.org/title/oclc/185839)
+- Laukka, Petri 2004. Instrumental music teachers’ views on expressivity: a report from music conservatoires. *Music Education Research* 6(1), 45–56. [Link](https://www.tandfonline.com/doi/abs/10.1080/1461380032000182823)
+- Laurel, Brenda ed. 1990. *Gestures in Human-Computer Communication*. Reading, Pasadena, Addison Wesley. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Leman, Marc ed. 1997. *Music, Gestalt, and Computing: Studies in Cognitive and Systematic Musicology*. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/BFb0033449)
+- Leman, Marc 2007. *Embodied Music Cognition and Mediation Technology*. Cambridge, Massachusetts, The MIT Press. [Link](https://mitpress.mit.edu/9780262122979/embodied-music-cognition-and-mediation-technology/)
+- Liberman, Alvin M. & Ignatius G. Mattingly 1985. The motor theory of speech perception revised. *Cognition* 21, 1–36. [Link](https://www.sciencedirect.com/science/article/pii/0010027785900216)
+- Lindström, Erik et al. 2003. “Expressivity comes from within your soul”: A questionnaire study of music students’ perspectives on expressivity. *Research Studies in Music Education* 20(1), 23–47. [Link](https://journals.sagepub.com/doi/10.1177/1321103X030200010201)
+- Loy, Gareth 1985. Musicians make a standard: The MIDI phenomenon. *Computer Music Journal* 9(4), 8–26. [Link](https://direct.mit.edu/comj/article/9/4/8/945/Musicians-Make-a-Standard-The-MIDI-Phenomenon)
+- Machover, Tod 2004. Shaping minds musically. *BT Technology Journal* 22(4), 171–179. [Link](https://link.springer.com/article/10.1023/B:BTTJ.0000047595.81924.1e)
+- Massion, Jean 1997. *Cerveau et motricité: Fonctions sensori-motrices*. Presse Universitaires de France. [Link](https://www.worldcat.org/title/oclc/20392723)
+- McGurk, Harry & John MacDonald 1976. Hearing lips and seeing voices. *Nature* (264), 746–748. [Link](https://www.nature.com/articles/264746a0)
+- McNeill, David 1992. *Hand and Mind: What Gestures Reveal About Thought*. Chicago, Illinois, University of Chicago Press. [Link](https://press.uchicago.edu/ucp/books/book/chicago/H/bo3636445.html)
+- McNeill, David 2005. *Gesture and Thought*. Chicago, Illinois, University of Chicago Press. [Link](https://press.uchicago.edu/ucp/books/book/chicago/G/bo3533486.html)
+- Merriam, Alan P. 1964. *The Anthropology of Music*. Evanston, Illinois: Northwestern University Press. [Link](https://nupress.northwestern.edu/9780810106079/the-anthropology-of-music/)
+- Métois, Eric 1997. *Musical Sound Information: Musical Gestures and Embedding Synthesis*. Ph.d.-avhandling, Massachusetts Institute of Technology. [Link](https://dspace.mit.edu/handle/1721.1/10812)
+- Meyer, Leonard B. 1956. *Emotion and Meaning in Music*. Chicago, Illinois, University of Chicago Press. [Link](https://press.uchicago.edu/ucp/books/book/chicago/E/bo3636446.html)
+- Middleton, Richard 1993. Popular music analysis and musicology: Bridging the gap. *Popular Music* 12(2), 177–190. [Link](https://www.cambridge.org/core/journals/popular-music/article/abs/popular-music-analysis-and-musicology-bridging-the-gap/9B2B8B2B8B2B8B2B8B2B8B2B8B2B8B2B)
+- Miranda, Eduardo Reck & Marcelo M. Wanderley 2006. *New Digital Musical Instruments: Control and Interaction Beyond the Keyboard*. Middleton, Wisconsin, A-R Editions. [Link](https://www.areditions.com/new-digital-musical-instruments-control-and-interaction-beyond-the-keyboard.html)
+- Moore, F. Richard 1988. The dysfunctions of MIDI. *Computer Music Journal* 12(1), 19–28. [Link](https://direct.mit.edu/comj/article/12/1/19/945/The-Dysfunctions-of-MIDI)
+- Morris, Desmond, Peter Collett & Peter Marsh 1979. *Gestures: Their Origins and Distribution*. London, Jonathan Cape. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Mozley, Anita V. ed. 1972. *Eadweard Muybridge: The Stanford Years, 1872-1882*. Palo Alto, California, Stanford University Museum of Art. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Muybridge, Eadweard J. 1955. *The Human Figure in Motion*. New York, Dover Publications. [Link](https://store.doverpublications.com/0486202046.html)
+- Nakra, Teresa Marin 2000. *Inside the Conductor’s Jacket: Analysis, Interpretation and Musical Synthesis of Expressive Gesture*. Ph.d.-avhandling, Massachusetts Institute of Technology. [Link](https://dspace.mit.edu/handle/1721.1/8777)
+- Newlove, Jean & John Dalby 2004. *Laban for All*. New York, Routledge. [Link](https://www.routledge.com/Laban-for-All/Newlove-Dalby/p/book/9781852730933)
+- Niikura, Yasuhiro et al. 1999. Valbum: Album-oriented video storyboard for editing and viewing video. Nishio, Shojiro & F. Kishino eds.: *AMCP’98*, LNCS 1554. 17–29. [Link](https://link.springer.com/chapter/10.1007/10704208_2)
+- Nishio, Shojiro & F. Kishino eds. 1999. *AMCP’98*, LNCS 1554. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/BFb0052994)
+- Norman, Donald A. 1990. *The design of everyday things*. New York, Doubleday. [Link](https://www.penguinrandomhouse.com/books/123408/the-design-of-everyday-things-by-don-norman/)
+- Perez, Miguel A. O. & R. Benjamin Knapp 2008. “Biotools: A biosignal toolbox for composers and performers”. Kronland-Martinet, Richard, Sølvi Ystad & Kristoffer Jensen eds.: *Computer Music Modeling and Retrieval 2007, LNCS 4969*. 441–452. [Link](https://link.springer.com/chapter/10.1007/978-3-540-85035-9_29)
+- Pierce, Alexandra & Roger Pierce 1989. *Expressive Movement: Posture and Action in Daily Life, Sports, and the Performing Arts*. Cambridge, Massachusetts, Perseus Publishing. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Piringer, Jörg 2001. Elektronische musik und interaktivität: Prinzipien, konzepte, anwendungen. Master-avhandling, Technischen Universität Wien. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Rizzolatti, Giacomo & Michael A. Arbib 1998. Language within our grasp. *Trends in Neuroscience* 21, 188–194. [Link](https://www.sciencedirect.com/science/article/pii/S0166223697012132)
+- Rocchesso, Davide Fontana 2003. *The Sounding Object*. Firenze, Edizioni di Mondo Estremo. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Roetenberg, Daniel (2006). *Inertial and Magnetic Sensing of Human Motion*. Ph.d.-avhandling, Universiteit Twente. [Link](https://research.utwente.nl/en/publications/inertial-and-magnetic-sensing-of-human-motion)
+- Rosenbaum, David A. 1991. *Human Motor Control*. San Diego, Academic Press. [Link](https://www.elsevier.com/books/human-motor-control/rosenbaum/978-0-12-597190-4)
+- Rumelhart, David E. & Donald A. Norman 1982. Simulating a skilled typist: A study of skilled cognitive-motor performance. *Cognitive Science* 6(1), 1–36. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog0601_1)
+- Sacks, Harvey & Emanuel Schegloff 2002. Home position. *Gesture* (2), 133–146. [Link](https://www.jbe-platform.com/content/journals/10.1075/gest.2.2.03sac)
+- Sagvolden, Terje et al. 2005. A dynamic developmental theory of attention-deficit/hyperactivity disorder (ADHD) predominantly hyperactive/impulsive and combined subtypes. *Behavioral and Brain Sciences* 28(03), 397–419. [Link](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/dynamic-developmental-theory-of-attentiondeficithyperactivity-disorder-adhd-predominantly-hyperactiveimpulsive-and-combined-subtypes/9B2B8B2B8B2B8B2B8B2B8B2B8B2B8B2B)
+- Schaeffer, Pierre 1966. *Traité des objets musicaux*. Paris, Editions du Seuil. [Link](https://www.seuil.com/ouvrage/traite-des-objets-musicaux-pierre-schaeffer/9782020028156)
+- Schmidt, Richard A. & Timothy D. Lee 1999. *Motor Control and Learning: A Behavioral Emphasis*. Champaign, Illinois, Human Kinetics. [Link](https://www.humankinetics.com/products/motor-control-and-learning-5th-edition)
+- Schrader, Constance A. 2004. *A Sense of Dance: Exploring Your Movement Potential*. Champaign, Illinois: Human Kinetics. [Link](https://www.humankinetics.com/products/a-sense-of-dance-2nd-edition)
+- Schneider, Albrecht ed. 2008. *Hamburger Jahrbuch für Musikwissenschaft24. Frankfurt, Peter Lang. [Link](https://www.peterlang.com/document/1048792)
+- Shaw, Robert & John Bransford eds. 1977. *Perceiving, acting, and knowing: Toward an ecological psychology*. Hillsdale, New Jersey, Erlbaum. [Link](https://www.worldcat.org/title/oclc/2818358)
+- Small, Christopher 1998. *Musicking. The Meanings of Performing and Listening*. Hanover, New Hampshire, Wesleyan University Press. [Link](https://www.weslpress.org/9780819522597/musicking/)
+- Solso, Robert L., M. Kimberley MacLin & Otto H. Mclin 2005. *Cognitive Psychology(7th ed.). Boston, Massachusetts, Allyn and Bacon. [Link](https://www.pearson.com/store/p/cognitive-psychology/P100000692978)
+- Sting 1985. *Bring on the Night\[DVD\]. A & M. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Strogatz, Steven and Ian Stewart 1993. Coupled Oscillators and Biological Synchronization. *Scientific American Magazine* 269(6), 102–109. [Link](https://www.jstor.org/stable/24941484)
+- Styns, Frederik et al. 2007. Walking on music. *Human Movement Science* 26(5), 769–785. [Link](https://www.sciencedirect.com/science/article/pii/S0167945707000732)
+- Tanaka, Atau 1993. Musical technical issues in using interactive instrument technology with application to the biomuse. *Proceedings of the International Computer Music Conference*. 124–124. [Link](https://quod.lib.umich.edu/i/icmc/bbp2372.1993.022/1)
+- Tanzer, I. Oğuz 2006. *Numerical Modeling in Electro- and Magnetoencephalography*. Ph.d.-avhandling, Helsinki University of Technology. [Link](https://aaltodoc.aalto.fi/handle/123456789/2372)
+- Teck, Katherine 1990. *Movement to Music: Musicians in the Dance Studio*. Santa Barbara, California, Greenwood Press. [Link](https://www.abc-clio.com/products/a1816c/)
+- Teodosio, Laura & Walter Bender 1993. Salient video stills: content and context preserved. *MULTIMEDIA ’93: Proceedings of the first ACM international conference on Multimedia*, 39–46. [Link](https://dl.acm.org/doi/10.1145/166266.166278)
+- Thompson, William & Frank A. Russo 2006. Preattentive integration of visual and auditory dimensions of music. *Second International Conference on Music and Gesture*, Royal Northern College of Music, Manchester. [Link](https://www.researchgate.net/publication/228600726_Gesture_-_Music)
+- Thompson, William, Phil Graham & Frank A. Russo 2005. Seeing music performance: Visual influences on perception and experience. *Semiotica* 156(1–4), 203–227. [Link](https://www.degruyter.com/document/doi/10.1515/semi.2005.2005.156.1-4.203/html)
+- Thoresen, Lasse & Andreas Hedman 2007. Spectromorphological analysis of sound objects: an adaptation of Pierre Schaeffer’s typomorphology. *Organised Sound* 12(02), 129–141. [Link](https://www.cambridge.org/core/journals/organised-sound/article/abs/spectromorphological-analysis-of-sound-objects-an-adaptation-of-pierre-schaeffers-typomorphology/2B2B8B2B8B2B8B2B8B2B8B2B8B2B8B2B)
+- Todd, Neil P. McAngus 1992. The dynamics of dynamics: A model of musical expression. *The Journal of the Acoustical Society of America* 91(6), 3540–3550. [Link](https://asa.scitation.org/doi/10.1121/1.402841)
+- Todd, Neil P. McAngus & Eduardo Reck Miranda 2004. “Putting some (artificial) life into models of musical creativity”. Deliege, Irène & Wiggins, Geraint A. eds.: *Musical creativity: Current research in theory and practice*. [Link](https://www.routledge.com/Musical-Creativity-Current-Research-in-theory-and-practice/Deliege-Wiggins/p/book/9781841692344)
+- Trevarthen, Colwyn 2000. Musicality and the intrinsic motive pulse: Evidence from human psychobiology and infant communication. *Musicae Scientiae* *Special Issue: Rhythm, Musical Narrative, and Origin of Human Communication*, 155–211. [Link](https://journals.sagepub.com/doi/10.1177/10298649000030S109)
+- Uchihashi, Shingo et al. 1999. Video manga: generating semantically meaningful video summaries. *MULTIMEDIA ’99: Proceedings of the seventh ACM international conference on Multimedia (Part 1)*, Orlando, Florida, 383–392. [Link](https://dl.acm.org/doi/10.1145/319463.319512)
+- Vines, Bradley et al. 2005. Cross-modal interactions in the perception of musical performance. *Cognition* 101, 80–113. [Link](https://www.sciencedirect.com/science/article/pii/S0010027705000732)
+- Wachsmuth, Ipke & Timo Sowa eds. 2002. *Gesture and Sign Language in Human-Computer Interaction,LNAI 2298. Berlin, Springer-Verlag. [Link](https://link.springer.com/book/10.1007/3-540-47873-6)
+- Wanderley, Marcelo M. 1999. “Non-obvious performer gestures in instrumental music”. Braffort, Annelies et al. eds.: *Gesture-Based Communication in Human-Computer Interaction.37–48. [Link](https://link.springer.com/chapter/10.1007/3-540-48916-6_5)
+- Wanderley, Marcelo M. & Marc Battier eds, 2000. *Trends in Gestural Control of Music\[CD-ROM\]. Paris, IRCAM – Centre Pompidou. [Link](https://www.worldcat.org/title/oclc/20392723)
+- Wanderley, Marcelo M. 2002. “Quantitative analysis of non-obvious performer gestures”. Wachsmuth, Ipke & Timo Sowa eds.: *Gesture and Sign Language in Human-Computer Interaction.241–253. [Link](https://link.springer.com/chapter/10.1007/3-540-47873-6_21)
+- Wanderley, Marcelo M. & Philippe Depalle 2004. Gestural control of sound synthesis. *Proceedings of the IEEE* 92(4), 632–644. [Link](https://ieeexplore.ieee.org/document/1294306)
+- Wanderley, Marcelo M. et al. 2005. The musical significance of clarinetists’ ancillary gestures: An exploration of the field. *Journal of New Music Research* 34(1), 97–113. [Link](https://www.tandfonline.com/doi/abs/10.1080/09298210500124208)
+- Widmer, Gerhard 2002. Machine Discoveries: A Few Simple, Robust Local Expression Principles. *Journal of New Music Research* 31(1), 37–50. [Link](https://www.tandfonline.com/doi/abs/10.1076/jnmr.31.1.37.14194)
+- Wilson, Margaret & Günther Knoblich 2005. The case for motor involvement in perceiving conspecifics. *Psychological Bulletin* 1(3), 460–473. [Link](https://psycnet.apa.org/record/2005-02951-010)
+- Wohlschlager, Andreas, Merideth Gattis & Harold Bekkering 2003. Action generation and action perception in imitation: an instance of the ideomotor principle. *Philosophical Transactions of the Royal Society B: Biological Sciences* 358(1431), 501–515. [Link](https://royalsocietypublishing.org/doi/10.1098/rstb.2002.1257)
+- Zeiner-Henriksen, Hans T. 2009. *The “PoumTchak” Pattern: Correspondences Between Rhythm, Sound, and Movement in Electronic Dance Music*. Manuskript Ph.d.-avhandling, Universitetet i Oslo. [Link](https://www.duo.uio.no/handle/10852/18077)
+- Zhao, Liwei 2001. *Synthesis and Acquisition of Laban Movement Analysis Qualitative Parameters for Communicative Gestures*. Ph.d.-avhandling, University of Pennsylvania. [Link](https://repository.upenn.edu/dissertations/AAI3009952/)
