@@ -80,11 +80,26 @@ latex_engine = 'xelatex'
 latex_elements = {
     # The paper size ('a4paper' or 'letterpaper')
     'papersize': 'a4paper',
-    # Additional stuff for the LaTeX preamble
-    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}',
+    # Minimal preamble: set main font and add KOMA options. Avoid loading
+    # scrlayer-scrpage here since Sphinx loads packages (titlesec) that may
+    # conflict; we'll perform a controlled class switch in the generated .tex.
+    'preamble': '\\usepackage{fontspec}\\setmainfont{DejaVu Serif}\n',
 }
 
 # Documents to build (source start file, target name, title, author, documentclass)
 latex_documents = [
-    ('index', 'MusikkOgBevegelse.tex', 'Musikk og bevegelse', 'ARJ', 'book'),
+    # Use scrbook (KOMA-Script) as the LaTeX document class for nicer book typography.
+    # Sphinx still generates a template assuming standard 'book', but many KOMA options
+    # can be set via \KOMAoptions in the preamble. If you want a full class swap,
+    # consider overriding the LaTeX template in _templates/latex and changing
+    # \documentclass{book} to \documentclass{scrbook} there. For now we use
+    # KOMA options in the preamble to reduce template changes.
+    ('index', 'MusikkOgBevegelse.tex', 'Musikk og bevegelse', 'ARJ', 'scrbook'),
 ]
+
+# Add minimal KOMA options to the preamble. These are applied via \KOMAoptions
+# which is safe to include even if the underlying class is 'book'—if you later
+# swap to scrbook, these options will take effect. We avoid loading packages
+# that conflict with sphinx defaults (e.g., titlesec) in this preamble.
+latex_elements.setdefault('preamble', '')
+latex_elements['preamble'] += '\n\\KOMAoptions{chapterprefix=true,open=right}\n'
