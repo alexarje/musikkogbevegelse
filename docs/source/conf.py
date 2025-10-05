@@ -101,6 +101,12 @@ latex_elements = {
 ''',
 }
 
+# Further minor polish: prefer KOMA chapter handling over fncychap and set
+# a simple scrlayer-scrpage header style. These are conservative tweaks that
+# avoid replacing Sphinx's generated .sty files but improve heading visuals.
+# (Removed: attempted scrlayer-scrpage/fncychap override — caused
+# package redefinition conflicts with Sphinx-generated style files.)
+
 # Documents to build (source start file, target name, title, author, documentclass)
 latex_documents = [
     # Use scrbook (KOMA-Script) as the LaTeX document class for nicer book typography.
