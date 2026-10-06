@@ -18,4 +18,5 @@ title: Musikk og bevegelse
 8-Design-av-handling-og-lyd
 9-Postludium
 10-Bibliografi
+errata
 ```
