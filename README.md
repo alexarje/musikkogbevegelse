@@ -9,3 +9,11 @@ Mange ting har skjedd siden 2009. Først fusjonerte UniPub inn i Akademika Forla
 En forfatters mål er å bli lest, og jeg har derfor valgt å gjøre boken fritt tilgjengelig. Jeg benytter også anledningen til å oppdatere boken, gjennom en åpen skriveprosess. Jeg bruker GitHub som versjonskontroll, og det genereres både en [nettversjon](https://alexarje.github.io/musikkogbevegelse/) og en PDF-versjon av boken. Tanken er at boken nå endelig kan fungere som en skikkelig e-bok, med støttemateriale bygget inn. Jeg vil også gjøre andre småoppdateringer av innholdet for å sikre at den fremdeles er aktuell.
 
 ![Musikk og bevegelse](docs/source/images/musikkogbevegelse_forside_crop.jpg)
+
+## Relaterte kurs og ressurser
+
+- [Sensing Sound and Music](https://fourms.github.io/sensingsoundandmusic/): en åpen e-bok om lyd, musikk og kropp, skrevet for emnet MUS2640 ved Universitetet i Oslo. Kapittelet *The body* bygger videre på temaene i denne boken.
+- [Motion Capture](https://www.futurelearn.com/courses/motion-capture-course): et gratis nettkurs på FutureLearn om opptak og analyse av menneskelig bevegelse.
+- [MUS1053V Motion Capture](https://www.uio.no/studier/emner/hf/imv/MUS1053V/index.html): det samme kurset som nettbasert emne ved Universitetet i Oslo, med 2,5 studiepoeng.
+- [MCT4053 Motion Capture](https://www.uio.no/studier/emner/hf/imv/MCT4053/): et emne på masternivå ved Universitetet i Oslo, med praktisk arbeid i bevegelseslaboratoriet.
+- [Rettelser](https://alexarje.github.io/musikkogbevegelse/errata.html) til den trykte utgaven.
